@@ -1,14 +1,14 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.9.26)  26 OCT 2020 14:23
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.9.25)  31 OCT 2020 20:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **why_learn_R.tex
 (./why_learn_R.tex
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-09-24> (g:/Tinytex/texmf-dist/tex/latex/beamer/beame
+L3 programming layer <2020-09-24> (d:/Tinytex/texmf-dist/tex/latex/beamer/beame
 r.cls
 Document Class: beamer 2020/07/22 v3.59 A class for typesetting presentations
-(g:/Tinytex/texmf-dist/tex/latex/beamer/beamerbasemodes.sty (g:/Tinytex/texmf-d
+(d:/Tinytex/texmf-dist/tex/latex/beamer/beamerbasemodes.sty (d:/Tinytex/texmf-d
 ist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/08/24 v2.5j e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count164
@@ -16,16 +16,16 @@ Package: etoolbox 2020/08/24 v2.5j e-TeX tools for LaTeX (JAW)
 \beamer@tempbox=\box45
 \beamer@tempcount=\count165
 \c@beamerpauses=\count166
-(g:/Tinytex/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+(d:/Tinytex/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
 \beamer@slideinframe=\count167
 \beamer@minimum=\count168
 \beamer@decode@box=\box46
 )
 \beamer@commentbox=\box47
 \beamer@modecount=\count169
-) (g:/Tinytex/texmf-dist/tex/generic/iftex/ifpdf.sty
+) (d:/Tinytex/texmf-dist/tex/generic/iftex/ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
-(g:/Tinytex/texmf-dist/tex/generic/iftex/iftex.sty
+(d:/Tinytex/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
 \headdp=\dimen134
@@ -70,16 +70,16 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \beamer@coveringdepth=\count186
 \beamer@sectionadjust=\count187
 \beamer@tocsectionnumber=\count188
-(g:/Tinytex/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty (g:/Tinytex/texmf
+(d:/Tinytex/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty (d:/Tinytex/texmf
 -dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
 ))
 \beamer@paperwidth=\skip48
 \beamer@paperheight=\skip49
-(g:/Tinytex/texmf-dist/tex/latex/geometry/geometry.sty
+(d:/Tinytex/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-(g:/Tinytex/texmf-dist/tex/generic/iftex/ifvtex.sty
+(d:/Tinytex/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count189
@@ -94,44 +94,44 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen156
 \Gm@layoutvoffset=\dimen157
 \Gm@dimlist=\toks16
-) (g:/Tinytex/texmf-dist/tex/latex/base/size12.clo
+) (d:/Tinytex/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
-) (g:/Tinytex/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (g:/Tinytex/texmf
+) (d:/Tinytex/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (d:/Tinytex/texmf
 -dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
-(g:/Tinytex/texmf-dist/tex/latex/graphics/graphics.sty
+(d:/Tinytex/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
-(g:/Tinytex/texmf-dist/tex/latex/graphics/trig.sty
+(d:/Tinytex/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) (g:/Tinytex/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (d:/Tinytex/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 105.
-(g:/Tinytex/texmf-dist/tex/latex/graphics-def/xetex.def
+(d:/Tinytex/texmf-dist/tex/latex/graphics-def/xetex.def
 File: xetex.def 2020/08/26 v5.0i Graphics/color driver for xetex
 ))
 \Gin@req@height=\dimen158
 \Gin@req@width=\dimen159
-) (g:/Tinytex/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (g:/Tinytex/texmf
--dist/tex/latex/pgf/utilities/pgfrcs.sty (g:/Tinytex/texmf-dist/tex/generic/pgf
+) (d:/Tinytex/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (d:/Tinytex/texmf
+-dist/tex/latex/pgf/utilities/pgfrcs.sty (d:/Tinytex/texmf-dist/tex/generic/pgf
 /utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks17
 \pgfutil@tempdima=\dimen160
 \pgfutil@tempdimb=\dimen161
-(g:/Tinytex/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (g:
+(d:/Tinytex/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (d:
 /Tinytex/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box54
-(g:/Tinytex/texmf-dist/tex/latex/ms/everyshi.sty
+(d:/Tinytex/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-)) (g:/Tinytex/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (g:/Tinytex
+)) (d:/Tinytex/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (d:/Tinytex
 /texmf-dist/tex/generic/pgf/pgf.revision.tex)
 Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
-)) (g:/Tinytex/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+)) (d:/Tinytex/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
-(g:/Tinytex/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+(d:/Tinytex/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks18
 \pgfkeys@temptoks=\toks19
-(g:/Tinytex/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+(d:/Tinytex/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
 \pgfkeys@tmptoks=\toks20
 ))
 \pgf@x=\dimen162
@@ -154,27 +154,27 @@ Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
 \t@pgf@tokb=\toks22
 \t@pgf@tokc=\toks23
 \pgf@sys@id@count=\count196
-(g:/Tinytex/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+(d:/Tinytex/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
 )
 Driver file for pgf: pgfsys-xetex.def
-(g:/Tinytex/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+(d:/Tinytex/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
 File: pgfsys-xetex.def 2020/01/08 v3.1.5b (3.1.5b)
-(g:/Tinytex/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+(d:/Tinytex/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
 File: pgfsys-dvipdfmx.def 2020/01/08 v3.1.5b (3.1.5b)
-(g:/Tinytex/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+(d:/Tinytex/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
 )
 \pgfsys@objnum=\count197
-))) (g:/Tinytex/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+))) (d:/Tinytex/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfsyssoftpath@smallbuffer@items=\count198
 \pgfsyssoftpath@bigbuffer@items=\count199
-) (g:/Tinytex/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+) (d:/Tinytex/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)) (g:/Tinytex/texmf-dist/tex/latex/xcolor/xcolor.sty
+)) (d:/Tinytex/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-(g:/Tinytex/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(d:/Tinytex/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 225.
@@ -186,13 +186,13 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-(g:/Tinytex/texmf-dist/tex/latex/graphics/dvipsnam.def
+(d:/Tinytex/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-)) (g:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+)) (d:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
-(g:/Tinytex/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (g:/Tinytex/texmf-
-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (g:/Tinytex/texmf-dist/tex/gener
-ic/pgf/math/pgfmathutil.code.tex) (g:/Tinytex/texmf-dist/tex/generic/pgf/math/p
+(d:/Tinytex/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (d:/Tinytex/texmf-
+dist/tex/generic/pgf/math/pgfmathcalc.code.tex (d:/Tinytex/texmf-dist/tex/gener
+ic/pgf/math/pgfmathutil.code.tex) (d:/Tinytex/texmf-dist/tex/generic/pgf/math/p
 gfmathparser.code.tex
 \pgfmath@dimen=\dimen172
 \pgfmath@count=\count266
@@ -200,19 +200,19 @@ gfmathparser.code.tex
 \pgfmath@toks=\toks24
 \pgfmath@stack@operand=\toks25
 \pgfmath@stack@operation=\toks26
-) (g:/Tinytex/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (g:/Tin
+) (d:/Tinytex/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (d:/Tin
 ytex/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
-(g:/Tinytex/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code
-.tex) (g:/Tinytex/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.
+(d:/Tinytex/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code
+.tex) (d:/Tinytex/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.
 tex)
-(g:/Tinytex/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.te
-x) (g:/Tinytex/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) 
-(g:/Tinytex/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (g
+(d:/Tinytex/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.te
+x) (d:/Tinytex/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) 
+(d:/Tinytex/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (d
 :/Tinytex/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
-(g:/Tinytex/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics
-.code.tex))) (g:/Tinytex/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+(d:/Tinytex/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics
+.code.tex))) (d:/Tinytex/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count267
-)) (g:/Tinytex/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (g:/Tinytex/tex
+)) (d:/Tinytex/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (d:/Tinytex/tex
 mf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@picminx=\dimen173
@@ -230,107 +230,107 @@ File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@zx=\dimen185
 \pgf@zy=\dimen186
 )
-(g:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+(d:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@path@lastx=\dimen187
 \pgf@path@lasty=\dimen188
-) (g:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+) (d:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@shorten@end@additional=\dimen189
 \pgf@shorten@start@additional=\dimen190
-) (g:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+) (d:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfpic=\box56
 \pgf@hbox=\box57
 \pgf@layerbox@main=\box58
 \pgf@picture@serial@count=\count268
-) (g:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.te
+) (d:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.te
 x
 File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgflinewidth=\dimen191
 )
-(g:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.t
+(d:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.t
 ex
 File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@pt@x=\dimen192
 \pgf@pt@y=\dimen193
 \pgf@pt@temp=\dimen194
-) (g:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+) (d:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-) (g:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+) (d:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-(g:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.te
+(d:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.te
 x
 File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-) (g:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+) (d:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfarrowsep=\dimen195
-) (g:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+) (d:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@max=\dimen196
 \pgf@sys@shading@range@num=\count269
 \pgf@shadingcount=\count270
-) (g:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+) (d:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-(g:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+(d:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfexternal@startupbox=\box59
-)) (g:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+)) (d:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-) (g:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.te
+) (d:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.te
 x
 File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-) (g:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+) (d:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-) (g:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+) (d:/Tinytex/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-))) (g:/Tinytex/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+))) (d:/Tinytex/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
 Package: xxcolor 2003/10/24 ver 0.1
 \XC@nummixins=\count271
 \XC@countmixins=\count272
-) (g:/Tinytex/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+) (d:/Tinytex/texmf-dist/tex/generic/atbegshi/atbegshi.sty
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
-(g:/Tinytex/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(d:/Tinytex/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (g:/Tinytex/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+) (d:/Tinytex/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-)) (g:/Tinytex/texmf-dist/tex/latex/hyperref/hyperref.sty
+)) (d:/Tinytex/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
-(g:/Tinytex/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(d:/Tinytex/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
-) (g:/Tinytex/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+) (d:/Tinytex/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-) (g:/Tinytex/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+) (d:/Tinytex/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (g:/Tinytex/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (d:/Tinytex/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (g:/Tinytex/texmf-dist/tex/latex/hycolor/hycolor.sty
+) (d:/Tinytex/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (g:/Tinytex/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+) (d:/Tinytex/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-) (g:/Tinytex/texmf-dist/tex/latex/auxhook/auxhook.sty
+) (d:/Tinytex/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-) (g:/Tinytex/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+) (d:/Tinytex/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 )
 \@linkdim=\dimen197
 \Hy@linkcounter=\count273
 \Hy@pagecounter=\count274
-(g:/Tinytex/texmf-dist/tex/latex/hyperref/pd1enc.def
+(d:/Tinytex/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
-) (g:/Tinytex/texmf-dist/tex/generic/intcalc/intcalc.sty
+) (d:/Tinytex/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-) (g:/Tinytex/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+) (d:/Tinytex/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count275
 Package hyperref Info: Option `unicode' set `true' on input line 4338.
-(g:/Tinytex/texmf-dist/tex/latex/hyperref/puenc.def
+(d:/Tinytex/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
 )
 Package hyperref Info: Option `bookmarks' set `true' on input line 4338.
@@ -344,15 +344,15 @@ Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
 Package hyperref Info: Bookmarks ON on input line 4717.
 \c@Hy@tempcnt=\count276
-(g:/Tinytex/texmf-dist/tex/latex/url/url.sty
+(d:/Tinytex/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5076.
 \XeTeXLinkMargin=\dimen198
-(g:/Tinytex/texmf-dist/tex/generic/bitset/bitset.sty
+(d:/Tinytex/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-(g:/Tinytex/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+(d:/Tinytex/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
@@ -374,9 +374,9 @@ Package hyperref Message: Stopped early.
 
 )
 Package hyperref Info: Driver (autodetected): hxetex.
-(g:/Tinytex/texmf-dist/tex/latex/hyperref/hxetex.def
+(d:/Tinytex/texmf-dist/tex/latex/hyperref/hxetex.def
 File: hxetex.def 2020-05-15 v7.00e Hyperref driver for XeTeX
-(g:/Tinytex/texmf-dist/tex/generic/stringenc/stringenc.sty
+(d:/Tinytex/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
@@ -385,21 +385,21 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 \HyField@AnnotCount=\count280
 \Fld@listcount=\count281
 \c@bookmark@seq@number=\count282
-(g:/Tinytex/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(d:/Tinytex/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
-(g:/Tinytex/texmf-dist/tex/latex/atveryend/atveryend.sty
+(d:/Tinytex/texmf-dist/tex/latex/atveryend/atveryend.sty
 Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
-) (g:/Tinytex/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+) (d:/Tinytex/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
-)) (g:/Tinytex/texmf-dist/tex/latex/beamer/beamerbaserequires.sty (g:/Tinytex/t
-exmf-dist/tex/latex/beamer/beamerbasecompatibility.sty) (g:/Tinytex/texmf-dist/
-tex/latex/beamer/beamerbasefont.sty (g:/Tinytex/texmf-dist/tex/latex/amsfonts/a
+)) (d:/Tinytex/texmf-dist/tex/latex/beamer/beamerbaserequires.sty (d:/Tinytex/t
+exmf-dist/tex/latex/beamer/beamerbasecompatibility.sty) (d:/Tinytex/texmf-dist/
+tex/latex/beamer/beamerbasefont.sty (d:/Tinytex/texmf-dist/tex/latex/amsfonts/a
 mssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-(g:/Tinytex/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(d:/Tinytex/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks27
 \symAMSa=\mathgroup4
@@ -407,23 +407,23 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))) (g:/Tinytex/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty (g:/Tinyte
+))) (d:/Tinytex/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty (d:/Tinyte
 x/texmf-dist/tex/latex/translator/translator.sty
 Package: translator 2020-08-03 v1.12c Easy translation of strings in LaTeX
-)) (g:/Tinytex/texmf-dist/tex/latex/beamer/beamerbasemisc.sty) (g:/Tinytex/texm
-f-dist/tex/latex/beamer/beamerbasetwoscreens.sty) (g:/Tinytex/texmf-dist/tex/la
+)) (d:/Tinytex/texmf-dist/tex/latex/beamer/beamerbasemisc.sty) (d:/Tinytex/texm
+f-dist/tex/latex/beamer/beamerbasetwoscreens.sty) (d:/Tinytex/texmf-dist/tex/la
 tex/beamer/beamerbaseoverlay.sty
 \beamer@argscount=\count283
 \beamer@lastskipcover=\skip50
 \beamer@trivlistdepth=\count284
-) (g:/Tinytex/texmf-dist/tex/latex/beamer/beamerbasetitle.sty) (g:/Tinytex/texm
+) (d:/Tinytex/texmf-dist/tex/latex/beamer/beamerbasetitle.sty) (d:/Tinytex/texm
 f-dist/tex/latex/beamer/beamerbasesection.sty
 \c@lecture=\count285
 \c@part=\count286
 \c@section=\count287
 \c@subsection=\count288
 \c@subsubsection=\count289
-) (g:/Tinytex/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
+) (d:/Tinytex/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
 \beamer@framebox=\box61
 \beamer@frametitlebox=\box62
 \beamer@zoombox=\box63
@@ -438,23 +438,23 @@ f-dist/tex/latex/beamer/beamerbasesection.sty
 \beamer@envbody=\toks28
 \framewidth=\dimen258
 \c@framenumber=\count293
-) (g:/Tinytex/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+) (d:/Tinytex/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
 \beamer@verbatimfileout=\write4
-) (g:/Tinytex/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
+) (d:/Tinytex/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
 \beamer@splitbox=\box64
 \beamer@autobreakcount=\count294
 \beamer@autobreaklastheight=\dimen259
 \beamer@frametitletoks=\toks29
 \beamer@framesubtitletoks=\toks30
-) (g:/Tinytex/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
+) (d:/Tinytex/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
 \beamer@footins=\box65
-) (g:/Tinytex/texmf-dist/tex/latex/beamer/beamerbasecolor.sty) (g:/Tinytex/texm
+) (d:/Tinytex/texmf-dist/tex/latex/beamer/beamerbasecolor.sty) (d:/Tinytex/texm
 f-dist/tex/latex/beamer/beamerbasenotes.sty
 \beamer@frameboxcopy=\box66
-) (g:/Tinytex/texmf-dist/tex/latex/beamer/beamerbasetoc.sty) (g:/Tinytex/texmf-
+) (d:/Tinytex/texmf-dist/tex/latex/beamer/beamerbasetoc.sty) (d:/Tinytex/texmf-
 dist/tex/latex/beamer/beamerbasetemplates.sty
 \beamer@sbttoks=\toks31
-(g:/Tinytex/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty (g:/Tinytex/
+(d:/Tinytex/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty (d:/Tinytex/
 texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
 \bmb@box=\box67
 \bmb@colorbox=\box68
@@ -467,7 +467,7 @@ texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
 \bmb@prevheight=\dimen263
 )
 \beamer@blockheadheight=\dimen264
-)) (g:/Tinytex/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty (g:/Tin
+)) (d:/Tinytex/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty (d:/Tin
 ytex/texmf-dist/tex/latex/tools/enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks32
@@ -476,23 +476,23 @@ Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \c@table=\count296
 \abovecaptionskip=\skip55
 \belowcaptionskip=\skip56
-) (g:/Tinytex/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
+) (d:/Tinytex/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
 \beamer@section@min@dim=\dimen265
-) (g:/Tinytex/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty (g:/Tinytex/te
+) (d:/Tinytex/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty (d:/Tinytex/te
 xmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2020/01/20 v2.17e AMS math features
 \@mathmargin=\skip57
 For additional information on amsmath, use the `?' option.
-(g:/Tinytex/texmf-dist/tex/latex/amsmath/amstext.sty
+(d:/Tinytex/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
-(g:/Tinytex/texmf-dist/tex/latex/amsmath/amsgen.sty
+(d:/Tinytex/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks33
 \ex@=\dimen266
-)) (g:/Tinytex/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) (d:/Tinytex/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen267
-) (g:/Tinytex/texmf-dist/tex/latex/amsmath/amsopn.sty
+) (d:/Tinytex/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count297
@@ -532,7 +532,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \mathdisplay@stack=\toks37
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
-) (g:/Tinytex/texmf-dist/tex/latex/amscls/amsthm.sty
+) (d:/Tinytex/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks38
 \thm@bodyfont=\toks39
@@ -545,17 +545,17 @@ Package: amsthm 2020/05/29 v2.20.6
 \dth@everypar=\toks43
 )
 \c@theorem=\count309
-) (g:/Tinytex/texmf-dist/tex/latex/beamer/beamerbasethemes.sty)) (g:/Tinytex/te
-xmf-dist/tex/latex/beamer/beamerthemedefault.sty (g:/Tinytex/texmf-dist/tex/lat
-ex/beamer/beamerfontthemedefault.sty) (g:/Tinytex/texmf-dist/tex/latex/beamer/b
-eamercolorthemedefault.sty) (g:/Tinytex/texmf-dist/tex/latex/beamer/beamerinner
+) (d:/Tinytex/texmf-dist/tex/latex/beamer/beamerbasethemes.sty)) (d:/Tinytex/te
+xmf-dist/tex/latex/beamer/beamerthemedefault.sty (d:/Tinytex/texmf-dist/tex/lat
+ex/beamer/beamerfontthemedefault.sty) (d:/Tinytex/texmf-dist/tex/latex/beamer/b
+eamercolorthemedefault.sty) (d:/Tinytex/texmf-dist/tex/latex/beamer/beamerinner
 themedefault.sty
 \beamer@dima=\dimen275
 \beamer@dimb=\dimen276
-) (g:/Tinytex/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (g:/Ti
+) (d:/Tinytex/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (d:/Ti
 nytex/texmf-dist/tex/latex/pgf/utilities/pgfpages.sty
 Package: pgfpages 2011/01/05 ver 0.02
-(g:/Tinytex/texmf-dist/tex/latex/tools/calc.sty
+(d:/Tinytex/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count310
 \calc@Bcount=\count311
@@ -577,7 +577,7 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \pgfphysicalheight=\dimen279
 \pgfphysicalwidth=\dimen280
 \pgfpages@shipoutbox=\box74
-) (g:/Tinytex/texmf-dist/tex/latex/lm/lmodern.sty
+) (d:/Tinytex/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -611,11 +611,11 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-) (g:/Tinytex/texmf-dist/tex/generic/iftex/ifxetex.sty
+) (d:/Tinytex/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-) (g:/Tinytex/texmf-dist/tex/generic/iftex/ifluatex.sty
+) (d:/Tinytex/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-) (g:/Tinytex/texmf-dist/tex/latex/base/fixltx2e.sty
+) (d:/Tinytex/texmf-dist/tex/latex/base/fixltx2e.sty
 Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
 Applying: [2015/01/01] Old fixltx2e package on input line 46.
 
@@ -624,14 +624,14 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 (fixltx2e)                See the latexrelease package for details.
 
 Already applied: [0000/00/00] Old fixltx2e package on input line 53.
-) (g:/Tinytex/texmf-dist/tex/xelatex/mathspec/mathspec.sty
+) (d:/Tinytex/texmf-dist/tex/xelatex/mathspec/mathspec.sty
 Package: mathspec 2016/12/22 v0.2b LaTeX Package (Mathematics font selection fo
 r XeLaTeX)
-(g:/Tinytex/texmf-dist/tex/latex/fontspec/fontspec.sty (g:/Tinytex/texmf-dist/t
-ex/latex/l3packages/xparse/xparse.sty (g:/Tinytex/texmf-dist/tex/latex/l3kernel
+(d:/Tinytex/texmf-dist/tex/latex/fontspec/fontspec.sty (d:/Tinytex/texmf-dist/t
+ex/latex/l3packages/xparse/xparse.sty (d:/Tinytex/texmf-dist/tex/latex/l3kernel
 /expl3.sty
 Package: expl3 2020-09-24 L3 programming layer (loader) 
-(g:/Tinytex/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+(d:/Tinytex/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2020-09-24 L3 backend support: XeTeX
 \g__graphics_track_int=\count319
 \l__pdf_internal_box=\box75
@@ -639,14 +639,14 @@ File: l3backend-xetex.def 2020-09-24 L3 backend support: XeTeX
 \g__pdf_backend_annotation_int=\count321
 ))
 Package: xparse 2020-05-15 L3 Experimental document command parser
-(g:/Tinytex/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex
+(d:/Tinytex/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex
 \l__xparse_current_arg_int=\count322
 \g__xparse_grabber_int=\count323
 \l__xparse_m_args_int=\count324
 \l__xparse_v_nesting_int=\count325
 ))
 Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
-(g:/Tinytex/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(d:/Tinytex/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
 X
 \l__fontspec_script_int=\count326
@@ -663,12 +663,12 @@ X
 \l__fontspec_tmpa_dim=\dimen281
 \l__fontspec_tmpb_dim=\dimen282
 \l__fontspec_tmpc_dim=\dimen283
-(g:/Tinytex/texmf-dist/tex/latex/base/fontenc.sty
+(d:/Tinytex/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
-) (g:/Tinytex/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (g:/Tinytex/texmf-d
+) (d:/Tinytex/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (d:/Tinytex/texmf-d
 ist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-(g:/Tinytex/texmf-dist/tex/generic/xkeyval/xkeyval.tex (g:/Tinytex/texmf-dist/t
+(d:/Tinytex/texmf-dist/tex/generic/xkeyval/xkeyval.tex (d:/Tinytex/texmf-dist/t
 ex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks44
 \XKV@tempa@toks=\toks45
@@ -680,47 +680,47 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 \c@eu@i=\count339
 \c@mkern=\count340
 )
-(g:/Tinytex/texmf-dist/tex/latex/beamertheme-metropolis/beamerthememetropolis.s
+(d:/Tinytex/texmf-dist/tex/latex/beamertheme-metropolis/beamerthememetropolis.s
 ty
 Package: beamerthememetropolis 2017/01/23 v1.2 Metropolis Beamer theme
-(g:/Tinytex/texmf-dist/tex/latex/pgfopts/pgfopts.sty
+(d:/Tinytex/texmf-dist/tex/latex/pgfopts/pgfopts.sty
 Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
-(g:/Tinytex/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (g:/Tinytex/texmf-di
+(d:/Tinytex/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (d:/Tinytex/texmf-di
 st/tex/generic/pgf/utilities/pgfkeys.code.tex))
 \pgfopts@list@add@a@toks=\toks46
 \pgfopts@list@add@b@toks=\toks47
 )
-(g:/Tinytex/texmf-dist/tex/latex/beamertheme-metropolis/beamerinnerthememetropo
+(d:/Tinytex/texmf-dist/tex/latex/beamertheme-metropolis/beamerinnerthememetropo
 lis.sty
 Package: beamerinnerthememetropolis 2017/01/23 Metropolis inner theme
-(g:/Tinytex/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (g:/Tinytex/texmf-d
+(d:/Tinytex/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (d:/Tinytex/texmf-d
 ist/tex/latex/pgf/basiclayer/pgf.sty
 Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
-(g:/Tinytex/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+(d:/Tinytex/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfnodeparttextbox=\box76
-) (g:/Tinytex/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+) (d:/Tinytex/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-) (g:/Tinytex/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+) (d:/Tinytex/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@nodesepstart=\dimen284
 \pgf@nodesepend=\dimen285
-) (g:/Tinytex/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+) (d:/Tinytex/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
-)) (g:/Tinytex/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (g:/Tinytex/texmf-
-dist/tex/latex/pgf/math/pgfmath.sty (g:/Tinytex/texmf-dist/tex/generic/pgf/math
-/pgfmath.code.tex)) (g:/Tinytex/texmf-dist/tex/generic/pgf/utilities/pgffor.cod
+)) (d:/Tinytex/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (d:/Tinytex/texmf-
+dist/tex/latex/pgf/math/pgfmath.sty (d:/Tinytex/texmf-dist/tex/generic/pgf/math
+/pgfmath.code.tex)) (d:/Tinytex/texmf-dist/tex/generic/pgf/utilities/pgffor.cod
 e.tex
 Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
-(g:/Tinytex/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+(d:/Tinytex/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
 \pgffor@iter=\dimen286
 \pgffor@skip=\dimen287
 \pgffor@stack=\toks48
 \pgffor@toks=\toks49
-)) (g:/Tinytex/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+)) (d:/Tinytex/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
 
-(g:/Tinytex/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.te
+(d:/Tinytex/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.te
 x
 File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@plot@mark@count=\count341
@@ -742,7 +742,7 @@ File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \tikznumberofchildren=\count343
 \tikznumberofcurrentchild=\count344
 \tikz@fig@count=\count345
-(g:/Tinytex/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+(d:/Tinytex/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfmatrixcurrentrow=\count346
 \pgfmatrixcurrentcolumn=\count347
@@ -750,7 +750,7 @@ File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 \tikz@expandcount=\count349
 
-(g:/Tinytex/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+(d:/Tinytex/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
 topaths.code.tex
 File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
@@ -761,18 +761,18 @@ File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \metropolis@blockadjust=\skip70
 \metropolis@parskip=\skip71
 )
-(g:/Tinytex/texmf-dist/tex/latex/beamertheme-metropolis/beamerouterthememetropo
+(d:/Tinytex/texmf-dist/tex/latex/beamertheme-metropolis/beamerouterthememetropo
 lis.sty
 Package: beamerouterthememetropolis 2017/01/23 Metropolis outer theme
 \metropolis@frametitle@padding=\skip72
 \metropolis@progressinheadfoot=\skip73
 \metropolis@progressinheadfoot@linewidth=\skip74
 )
-(g:/Tinytex/texmf-dist/tex/latex/beamertheme-metropolis/beamercolorthememetropo
+(d:/Tinytex/texmf-dist/tex/latex/beamertheme-metropolis/beamercolorthememetropo
 lis.sty
 Package: beamercolorthememetropolis 2017/01/23 Metropolis color theme
 )
-(g:/Tinytex/texmf-dist/tex/latex/beamertheme-metropolis/beamerfontthememetropol
+(d:/Tinytex/texmf-dist/tex/latex/beamertheme-metropolis/beamerfontthememetropol
 is.sty
 Package: beamerfontthememetropolis 2017/01/23 Metropolis font theme
 \c@fontsnotfound=\count350
@@ -784,15 +784,10 @@ line 95.
 Package beamerthememetropolis Warning: Could not find Fira Mono fonts on input 
 line 95.
 
-)) (g:/Tinytex/texmf-dist/tex/latex/upquote/upquote.sty
-Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
-tim
-(g:/Tinytex/texmf-dist/tex/latex/base/textcomp.sty
-Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 ))
 Package hyperref Info: Option `colorlinks' set `true' on input line 58.
 Package hyperref Info: Option `breaklinks' set `true' on input line 58.
-(g:/Tinytex/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+(d:/Tinytex/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
 Package: fancyvrb 2020/05/03 v3.6 verbatim text (tvz,hv)
 \FV@CodeLineNo=\count351
 \FV@InFile=\read3
@@ -800,14 +795,14 @@ Package: fancyvrb 2020/05/03 v3.6 verbatim text (tvz,hv)
 \c@FancyVerbLine=\count352
 \FV@StepNumber=\count353
 \FV@OutFile=\write5
-) (g:/Tinytex/texmf-dist/tex/latex/framed/framed.sty
+) (d:/Tinytex/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \OuterFrameSep=\skip75
 \fb@frw=\dimen297
 \fb@frh=\dimen298
 \FrameRule=\dimen299
 \FrameSep=\dimen300
-) (g:/Tinytex/texmf-dist/tex/latex/tools/longtable.sty
+) (d:/Tinytex/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 \LTleft=\skip76
 \LTright=\skip77
@@ -824,7 +819,7 @@ Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 \c@LT@tables=\count357
 \c@LT@chunks=\count358
 \LT@p@ftn=\toks50
-) (g:/Tinytex/texmf-dist/tex/latex/booktabs/booktabs.sty
+) (d:/Tinytex/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen302
 \lightrulewidth=\dimen303
@@ -843,9 +838,9 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count361
 \@lastruleclass=\count362
 \@thisrulewidth=\dimen314
-) (g:/Tinytex/texmf-dist/tex/latex/caption/caption.sty
+) (d:/Tinytex/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2020/09/12 v3.5b Customizing captions (AR)
-(g:/Tinytex/texmf-dist/tex/latex/caption/caption3.sty
+(d:/Tinytex/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2020/09/17 v2.1b caption3 kernel (AR)
 \captionmargin=\dimen315
 \captionmargin@=\dimen316
@@ -855,7 +850,7 @@ Package: caption3 2020/09/17 v2.1b caption3 kernel (AR)
 \caption@parindent=\dimen320
 \caption@hangindent=\dimen321
 Package caption Info: beamer document class detected.
-(g:/Tinytex/texmf-dist/tex/latex/caption/caption-beamer.sto
+(d:/Tinytex/texmf-dist/tex/latex/caption/caption-beamer.sto
 File: caption-beamer.sto 2020/08/22 v2.0 Adaption of the caption package to the
  beamer document classes (AR)
 ))
@@ -865,22 +860,22 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: Hyperref support is turned off
 (caption)             because hyperref has stopped early.
 Package caption Info: longtable package is loaded.
-(g:/Tinytex/texmf-dist/tex/latex/caption/ltcaption.sty
+(d:/Tinytex/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
-)) (g:/Tinytex/texmf-dist/tex/latex/ctex/ctex.sty
+)) (d:/Tinytex/texmf-dist/tex/latex/ctex/ctex.sty
 Package: ctex 2020/08/23 v2.5.4 Chinese adapter in LaTeX (CTEX)
-(g:/Tinytex/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+(d:/Tinytex/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2020-05-15 LaTeX2e option processing using LaTeX3 keys
-) (g:/Tinytex/texmf-dist/tex/latex/ctex/ctexhook.sty
+) (d:/Tinytex/texmf-dist/tex/latex/ctex/ctexhook.sty
 Package: ctexhook 2020/08/23 v2.5.4 Document and package hooks (CTEX)
-) (g:/Tinytex/texmf-dist/tex/latex/ctex/ctexpatch.sty
+) (d:/Tinytex/texmf-dist/tex/latex/ctex/ctexpatch.sty
 Package: ctexpatch 2020/08/23 v2.5.4 Patching commands (CTEX)
-) (g:/Tinytex/texmf-dist/tex/latex/base/fix-cm.sty
+) (d:/Tinytex/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
-(g:/Tinytex/texmf-dist/tex/latex/base/ts1enc.def
+(d:/Tinytex/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
-)) (g:/Tinytex/texmf-dist/tex/latex/ms/everysel.sty
+)) (d:/Tinytex/texmf-dist/tex/latex/ms/everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \l__ctex_tmp_int=\count365
@@ -888,13 +883,13 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \l__ctex_tmp_dim=\dimen322
 \g__ctex_section_depth_int=\count366
 \g__ctex_font_size_int=\count367
-(g:/Tinytex/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+(d:/Tinytex/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
 File: ctexopts.cfg 2020/08/23 v2.5.4 Option configuration file (CTEX)
-) (g:/Tinytex/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+) (d:/Tinytex/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
 File: ctex-engine-xetex.def 2020/08/23 v2.5.4 XeLaTeX adapter (CTEX)
-(g:/Tinytex/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+(d:/Tinytex/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
 Package: xeCJK 2020/08/23 v3.8.5 Typesetting CJK scripts with XeLaTeX
-(g:/Tinytex/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+(d:/Tinytex/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
 Package: xtemplate 2020-05-15 L3 Experimental prototype document functions
 \l__xtemplate_tmp_dim=\dimen323
 \l__xtemplate_tmp_int=\count368
@@ -959,24 +954,24 @@ Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
 \g__xeCJK_fam_allocation_int=\count378
 \l__xeCJK_verb_case_int=\count379
 \l__xeCJK_verb_exspace_skip=\skip86
-(g:/Tinytex/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+(d:/Tinytex/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
 File: xeCJK.cfg 2020/08/23 v3.8.5 Configuration file for xeCJK package
 ))
 \ccwd=\dimen352
 \l__ctex_ccglue_skip=\skip87
 )
 \l__ctex_ziju_dim=\dimen353
-(g:/Tinytex/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+(d:/Tinytex/texmf-dist/tex/latex/zhnumber/zhnumber.sty
 Package: zhnumber 2020/05/01 v2.8 Typesetting numbers with Chinese glyphs
 \l__zhnum_scale_int=\count380
-(g:/Tinytex/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+(d:/Tinytex/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
 File: zhnumber-utf8.cfg 2020/05/01 v2.8 Chinese numerals with UTF8 encoding
-)) (g:/Tinytex/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
+)) (d:/Tinytex/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
 File: ctex-scheme-chinese.def 2020/08/23 v2.5.4 Chinese scheme for generic (CTE
 X)
-(g:/Tinytex/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+(d:/Tinytex/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
 File: ctex-name-utf8.cfg 2020/08/23 v2.5.4 Caption with encoding UTF-8 (CTEX)
-)) (g:/Tinytex/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.def
+)) (d:/Tinytex/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.def
 File: ctex-fontset-fandol.def 2020/08/23 v2.5.4 Fandol fonts definition (CTEX)
 
 Package fontspec Warning: Font "FandolSong-Regular" does not contain requested
@@ -1016,9 +1011,9 @@ age=dflt;mapping=tex-text;"
 uage=dflt;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 
-)) (g:/Tinytex/texmf-dist/tex/latex/ctex/config/ctex.cfg
+)) (d:/Tinytex/texmf-dist/tex/latex/ctex/config/ctex.cfg
 File: ctex.cfg 2020/08/23 v2.5.4 Configuration file (CTEX)
-) (./header.tex (g:/Tinytex/texmf-dist/tex/latex/tools/array.sty
+) (./header.tex (d:/Tinytex/texmf-dist/tex/latex/tools/array.sty
 Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen354
 \ar@mcellbox=\box88
@@ -1027,40 +1022,40 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \extratabsurround=\skip88
 \backup@length=\skip89
 \ar@cellbox=\box89
-) (g:/Tinytex/texmf-dist/tex/latex/multirow/multirow.sty
+) (d:/Tinytex/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
 \multirow@colwidth=\skip90
 \multirow@cntb=\count381
 \multirow@dima=\skip91
 \bigstrutjot=\dimen356
-) (g:/Tinytex/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+) (d:/Tinytex/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen357
 \WF@size=\dimen358
 \c@WF@wrappedlines=\count382
 \WF@box=\box90
 \WF@everypar=\toks52
 Package: wrapfig 2003/01/31  v 3.6
-) (g:/Tinytex/texmf-dist/tex/latex/float/float.sty
+) (d:/Tinytex/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count383
 \float@exts=\toks53
 \float@box=\box91
 \@float@everytoks=\toks54
 \@floatcapt=\box92
-) (g:/Tinytex/texmf-dist/tex/latex/colortbl/colortbl.sty
+) (d:/Tinytex/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
 \everycr=\toks55
 \minrowclearance=\skip92
-) (g:/Tinytex/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+) (d:/Tinytex/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
-(g:/Tinytex/texmf-dist/tex/latex/graphics/lscape.sty
+(d:/Tinytex/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 
-) (g:/Tinytex/texmf-dist/tex/latex/tabu/tabu.sty
+) (d:/Tinytex/texmf-dist/tex/latex/tabu/tabu.sty
 Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
-(g:/Tinytex/texmf-dist/tex/latex/varwidth/varwidth.sty
+(d:/Tinytex/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box93
 \sift@deathcycles=\count384
@@ -1089,23 +1084,23 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \tabu@hleads=\box96
 \tabu@vleads=\box97
 \tabu@cellskip=\skip93
-) (g:/Tinytex/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+) (d:/Tinytex/texmf-dist/tex/latex/threeparttable/threeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
 \@tempboxb=\box98
-) (g:/Tinytex/texmf-dist/tex/latex/threeparttablex/threeparttablex.sty
+) (d:/Tinytex/texmf-dist/tex/latex/threeparttablex/threeparttablex.sty
 Package: threeparttablex 2013/07/23 v0.3 by daleif
-(g:/Tinytex/texmf-dist/tex/latex/environ/environ.sty
+(d:/Tinytex/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
-(g:/Tinytex/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+(d:/Tinytex/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
 \TPTL@width=\skip94
-) (g:/Tinytex/texmf-dist/tex/latex/makecell/makecell.sty
+) (d:/Tinytex/texmf-dist/tex/latex/makecell/makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 \rotheadsize=\dimen370
 \c@nlinenum=\count391
 \TeXr@lab=\toks58
-) (g:/Tinytex/texmf-dist/tex/latex/xtab/xtab.sty
+) (d:/Tinytex/texmf-dist/tex/latex/xtab/xtab.sty
 Package: xtab 2011/07/31 v2.3f Extended supertabular package
 \c@tracingst=\count392
 \PWSTcapht=\dimen371
@@ -1225,11 +1220,11 @@ LaTeX Font Info:    ... okay on input line 169.
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box100
 Package hyperref Info: Link coloring ON on input line 169.
-(g:/Tinytex/texmf-dist/tex/latex/hyperref/nameref.sty
+(d:/Tinytex/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
-(g:/Tinytex/texmf-dist/tex/latex/refcount/refcount.sty
+(d:/Tinytex/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (g:/Tinytex/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+) (d:/Tinytex/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count399
@@ -1288,31 +1283,31 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  TU/lmtt/m/n --> TU/lmtt/b/n on input line 169.
 
-(g:/Tinytex/texmf-dist/tex/latex/translator/translator-basic-dictionary-English
+(d:/Tinytex/texmf-dist/tex/latex/translator/translator-basic-dictionary-English
 .dict
 Dictionary: translator-basic-dictionary, Language: English 
 )
-(g:/Tinytex/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-
+(d:/Tinytex/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-
 English.dict
 Dictionary: translator-bibliography-dictionary, Language: English 
 )
-(g:/Tinytex/texmf-dist/tex/latex/translator/translator-environment-dictionary-E
+(d:/Tinytex/texmf-dist/tex/latex/translator/translator-environment-dictionary-E
 nglish.dict
 Dictionary: translator-environment-dictionary, Language: English 
 )
-(g:/Tinytex/texmf-dist/tex/latex/translator/translator-months-dictionary-Englis
+(d:/Tinytex/texmf-dist/tex/latex/translator/translator-months-dictionary-Englis
 h.dict
 Dictionary: translator-months-dictionary, Language: English 
 )
-(g:/Tinytex/texmf-dist/tex/latex/translator/translator-numbers-dictionary-Engli
+(d:/Tinytex/texmf-dist/tex/latex/translator/translator-numbers-dictionary-Engli
 sh.dict
 Dictionary: translator-numbers-dictionary, Language: English 
 )
-(g:/Tinytex/texmf-dist/tex/latex/translator/translator-theorem-dictionary-Engli
+(d:/Tinytex/texmf-dist/tex/latex/translator/translator-theorem-dictionary-Engli
 sh.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-(g:/Tinytex/texmf-dist/tex/latex/ctex/dictionary/translator-theorem-dictionary-
+(d:/Tinytex/texmf-dist/tex/latex/ctex/dictionary/translator-theorem-dictionary-
 ChineseUTF8.dict
 Dictionary: translator-theorem-dictionary, Language: ChineseUTF8 2020/08/23 v2.
 5.4 Chinese translation for theorem name (CTEX)
@@ -1340,61 +1335,61 @@ Overfull \vbox (16.67491pt too high) detected at line 174
 
 ]
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/m/n' will be
-(Font)              scaled to size 11.97308pt on input line 191.
+(Font)              scaled to size 11.97308pt on input line 193.
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/b/n' will be
-(Font)              scaled to size 13.54568pt on input line 191.
+(Font)              scaled to size 13.54568pt on input line 193.
 [2
 
 ]
 LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
-194.
-(g:/Tinytex/texmf-dist/tex/latex/lm/ot1lmss.fd
+196.
+(d:/Tinytex/texmf-dist/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-94.
-(g:/Tinytex/texmf-dist/tex/latex/lm/omllmm.fd
+96.
+(d:/Tinytex/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-194.
-(g:/Tinytex/texmf-dist/tex/latex/lm/omslmsy.fd
+196.
+(d:/Tinytex/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-194.
-(g:/Tinytex/texmf-dist/tex/latex/lm/omxlmex.fd
+196.
+(d:/Tinytex/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 194.
+(Font)              <12> on input line 196.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 194.
+(Font)              <8> on input line 196.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 194.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 194
+(Font)              <6> on input line 196.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 196
 .
-(g:/Tinytex/texmf-dist/tex/latex/amsfonts/umsa.fd
+(d:/Tinytex/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 194
+LaTeX Font Info:    Trying to load font information for U+msb on input line 196
 .
-(g:/Tinytex/texmf-dist/tex/latex/amsfonts/umsb.fd
+(d:/Tinytex/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <12> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 194.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 196.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <8> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 194.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 196.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 194.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 196.
 [3
 
 ]
 File: images/R_inventor.png Graphic file (type bmp)
 <images/R_inventor.png>
 
-Overfull \vbox (234.08324pt too high) detected at line 231
+Overfull \vbox (234.08324pt too high) detected at line 235
  []
 
 [4
@@ -1405,7 +1400,7 @@ Overfull \vbox (234.08324pt too high) detected at line 231
 File: images/tiobe-index.png Graphic file (type bmp)
 <images/tiobe-index.png>
 
-Overfull \vbox (4.5171pt too high) detected at line 259
+Overfull \vbox (4.5171pt too high) detected at line 267
  []
 
 [6
@@ -1440,145 +1435,150 @@ File: images/Rinstall.png Graphic file (type bmp)
 [7
 
 ]
+File: images/rstudio_cloud.png Graphic file (type bmp)
+<images/rstudio_cloud.png>
+[8
+
+]
 File: images/rstudio-editor.png Graphic file (type bmp)
 <images/rstudio-editor.png>
 
-Overfull \vbox (13.34393pt too high) detected at line 271
+Overfull \vbox (13.34393pt too high) detected at line 292
  []
 
-[8
+[9
 
 ]
 File: images/hadley-wickham.jpg Graphic file (type bmp)
 <images/hadley-wickham.jpg>
-[9
+[10
 
-] [10
+] [11
 
 ]
 File: images/data-science-explore.png Graphic file (type bmp)
 <images/data-science-explore.png>
-[11
+[12
 
 ]
 File: images/tidyverse.png Graphic file (type bmp)
 <images/tidyverse.png>
-[12
+[13
 
-] [13
+] [14
 
 ]
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/m/n' will be
-(Font)              scaled to size 24.82419pt on input line 328.
-[14
+(Font)              scaled to size 24.82419pt on input line 359.
+[15
 
 ]
 File: images/arrival-movie.png Graphic file (type bmp)
 <images/arrival-movie.png>
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/b/n' will be
-(Font)              scaled to size 10.30037pt on input line 340.
-[15
+(Font)              scaled to size 10.30037pt on input line 373.
+[16
 
 ]
 File: images/night_king.jpg Graphic file (type bmp)
 <images/night_king.jpg>
 
-Overfull \vbox (3.00157pt too high) detected at line 352
+Overfull \vbox (3.00157pt too high) detected at line 387
  []
 
-[16
+[17
 
-] [17
+] [18
 
 ]
 File: images/social_science.jpg Graphic file (type bmp)
 <images/social_science.jpg>
 
-Overfull \vbox (5.51003pt too high) detected at line 362
+Overfull \vbox (5.51003pt too high) detected at line 399
  []
 
-[18
+[19
 
 ]
 File: images/BBC-style-Plot.png Graphic file (type bmp)
 <images/BBC-style-Plot.png>
-[19
+[20
 
 ]
 File: images/Coding-Lab.jpg Graphic file (type bmp)
 <images/Coding-Lab.jpg>
-[20
+[21
 
 ]
 File: images/nature_editorial.png Graphic file (type bmp)
 <images/nature_editorial.png>
 
-Overfull \vbox (8.28484pt too high) detected at line 384
+Overfull \vbox (8.28484pt too high) detected at line 427
  []
 
-[21
+[22
 
 ]
 File: images/R_logo.png Graphic file (type bmp)
 <images/R_logo.png>
-[22
+[23
 
 ]
 File: images/why_R_is_best_language.png Graphic file (type bmp)
 <images/why_R_is_best_language.png>
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 414.
+(Font)              <5> on input line 461.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <5> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 414.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 461.
 
-Overfull \vbox (32.48093pt too high) detected at line 414
+Overfull \vbox (32.48093pt too high) detected at line 461
  []
 
-[23
+[24
 
 ]
 File: images/meme.png Graphic file (type bmp)
 <images/meme.png>
 
-Overfull \vbox (7.40788pt too high) detected at line 419
+Overfull \vbox (7.40788pt too high) detected at line 468
  []
 
-[24
+[25
 
-] [25
+] [26
 
 ]
 File: images/data_science.png Graphic file (type bmp)
 <images/data_science.png>
-[26
+[27
 
 ]
 \openout4 = `why_learn_R.vrb'.
 
 (./why_learn_R.vrb
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <12> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 13.
-) [27
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 14.
+) [28
 
 ]
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/b/n' will be
-(Font)              scaled to size 11.28809pt on input line 485.
+(Font)              scaled to size 11.28809pt on input line 542.
 File: images/Knowledge-Scaffolding.jpg Graphic file (type bmp)
 <images/Knowledge-Scaffolding.jpg>
 
-Overfull \vbox (6.1437pt too high) detected at line 485
+Overfull \vbox (6.1437pt too high) detected at line 542
  []
 
-[28
+[29
 
 ]
 File: images/r4ds-cover.png Graphic file (type bmp)
 <images/r4ds-cover.png>
 
-Overfull \vbox (3.94997pt too high) detected at line 498
+Overfull \vbox (3.94997pt too high) detected at line 557
  []
 
-[29
+[30
 
 ]
 \tf@nav=\write7
@@ -1590,24 +1590,24 @@ Overfull \vbox (3.94997pt too high) detected at line 498
 \tf@snm=\write9
 \openout9 = `why_learn_R.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 503.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 503.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 562.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 562.
 (./why_learn_R.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 503.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 503.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 562.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 562.
 Package rerunfilecheck Info: File `why_learn_R.out' has not changed.
 (rerunfilecheck)             Checksum: 45DC8B2D912829FE24DC27227E106A15;307.
  ) 
 Here is how much of TeX's memory you used:
- 34076 strings out of 481648
- 713005 string characters out of 5932781
- 1001749 words of memory out of 5000000
- 50394 multiletter control sequences out of 15000+600000
+ 34065 strings out of 481673
+ 712829 string characters out of 5933697
+ 1001364 words of memory out of 5000000
+ 50375 multiletter control sequences out of 15000+600000
  552825 words of font info for 95 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  66i,13n,128p,1814b,747s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on why_learn_R.pdf (29 pages).
+Output written on why_learn_R.pdf (30 pages).
 
 ! kpathsea:make_tex: Invalid filename `Fira Sans Light', contains ' '
 ! kpathsea:make_tex: Invalid filename `Fira Sans Light Italic', contains ' '

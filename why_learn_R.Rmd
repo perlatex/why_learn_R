@@ -96,6 +96,16 @@ knitr::include_graphics("images/tiobe-index.png")
 knitr::include_graphics("images/Rinstall.png")
 ```
 
+## 也可以偷懒
+
+
+```{r echo=FALSE, out.width = '100%'}
+knitr::include_graphics("images/rstudio_cloud.png")
+```
+
+注册就可使用：<https://rstudio.cloud/>
+
+
 ## 界面很友好
 
 ```{r out.width = '85%', echo = FALSE}
