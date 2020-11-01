@@ -1,58 +1,45 @@
-# Numeric Functions
+# 计算
 1 + 5
+
+
+
+# 生成序列
 1:100
-abs(-3.14)
-sqrt(3.14)
-floor(3.14)
-round(3.14)
-cos(3.14)
-log(3.14)
-exp(3.14)
-
-seq(1, 10, 2)
-rep(1:3, 2)
 
 
 
-
-
-# Character Functions
-substr("abcdef", 2, 4)
-grep("a",  c("alice", "bob", "claro"))
-strsplit("a.b.c", "\\.")
-toupper("Alice")
-tolower("Alice")
+# 把序列装到变量里
+x <- 1:100
 
 
 
-
-# Statistical Functions
-x <- 1:10
+# 求和
 sum(x)
-min(x)
+
+
+
+# 求均值
 mean(x)
+
+
+
+# 求方差
 sd(x)
-var(x)
-median(x)
-quantile(x, probs = 0.75)
-range(x)
-scale(x, center = TRUE, scale = TRUE)
 
 
-
-# Statistical Probability Functions
+# 生成正态分布的随机数
 rnorm(20, mean = 0, sd = 1)
-dnorm(0.5, mean = 0, sd = 1)
-rpois(100, lambda = 10)
-dpois(2, lambda = 10)
 
 
 
-
-
-# Regression Modeling
-lm(mpg ~ wt, data = mtcars)
-aov(mpg ~ wt, data = mtcars)
+# T检验
 t.test(extra ~ group, data = sleep)
 
 
+# 方差分析
+aov(mpg ~ wt, data = mtcars)
+
+
+
+# 线性模型
+lm(mpg ~ wt, data = mtcars)

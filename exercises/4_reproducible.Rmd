@@ -23,7 +23,6 @@ knitr::opts_chunk$set(echo = TRUE,
 ```
 
 
-
 # 引言
 
 新型冠状病毒疫情在多国蔓延，一些国家的病例确诊数量明显增多，各国防疫力度继续加强。本章通过分析疫情数据，了解疫情发展，祝愿人类早日会战胜病毒！
@@ -31,13 +30,12 @@ knitr::opts_chunk$set(echo = TRUE,
 
 # 导入数据
 
-首先，我们加载需要的宏包，其中tidyverse用于数据探索、covdata用于获取数据
+首先，我们加载宏包tidyverse
 
-```{r}
-# Load libraries
+```{r, warning=FALSE, message=FALSE}
 library(tidyverse) 
-#library(covdata)
-load("covnat.rda")
+
+covnat <- read_csv("covnat.csv")
 ```
 
 
@@ -67,9 +65,11 @@ covnat %>%
 | cu_cases  	| 累积确诊病例       	|
 | cu_deaths 	| 累积死亡病例       	|
 
+
+
 # 数据探索
 
-找出累积确诊病例最多的几个国家
+找出**累积确诊病例**最多的几个国家
 
 ```{r}
 covnat %>% 
@@ -79,21 +79,31 @@ covnat %>%
 ```
 
 
-# 可视化
+全球**确诊病例**和**死亡病例**
 
-为了更好的呈现数据，我们将筛选出美国确诊病例数据，并可视化
+```{r}
+covnat %>% 
+  ungroup() %>% 
+  summarise(
+    total_cases = sum(cases),
+    total_death = sum(deaths),
+  )
+```
+
+
+
+美国疫情变化情况
 
 ```{r, fig.showtext = TRUE}
 covnat %>% 
   filter(iso3 == "USA") %>% 
   filter(cu_cases > 0) %>% 
   ungroup() %>% 
-  
   ggplot(aes(x = date, y = cases)) +
-  geom_path() +
+  geom_line() +
   scale_x_date(name = NULL, breaks = "month") +
   labs(title = "美国新冠肺炎累积确诊病例",
-       subtitle = "数据来源https://kjhealy.github.io/covdata/")
+       subtitle = "数据来源https://kjhealy.github.io/covdata/") 
 ```
 
 

@@ -153,6 +153,7 @@ knitr::include_graphics("images/tidyverse.png")
 | 3    	| 探索性分析   	| [3_eda.R](./exercises/3_eda.R)         	          |
 | 4    	| 可重复性报告 	| [4_reproducible.R](./exercises/4_reproducible.R) 	|
 
+ 进入 <https://rstudio.cloud/project/1847233>
 
 
 ## 难吗？
