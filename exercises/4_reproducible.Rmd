@@ -35,7 +35,7 @@ knitr::opts_chunk$set(echo = TRUE,
 ```{r, warning=FALSE, message=FALSE}
 library(tidyverse) 
 
-covnat <- read_csv("covnat.csv")
+covnat <- read_csv("data/covnat.csv")
 ```
 
 

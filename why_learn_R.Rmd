@@ -96,8 +96,18 @@ knitr::include_graphics("images/tiobe-index.png")
 knitr::include_graphics("images/Rinstall.png")
 ```
 
-## 也可以偷懒
+## 安装IDE
 
+官网地址：<https://rstudio.com/>
+
+```{r out.width = '85%', echo = FALSE}
+knitr::include_graphics("images/rstudio-editor.png")
+```
+
+
+
+
+## 也可以偷懒
 
 ```{r echo=FALSE, out.width = '100%'}
 knitr::include_graphics("images/rstudio_cloud.png")
@@ -106,11 +116,15 @@ knitr::include_graphics("images/rstudio_cloud.png")
 注册就可使用：<https://rstudio.cloud/>
 
 
+
+
 ## 界面很友好
 
-```{r out.width = '85%', echo = FALSE}
-knitr::include_graphics("images/rstudio-editor.png")
+```{r out.width = '99%', echo = FALSE}
+knitr::include_graphics("images/rstudio-cloud.png")
 ```
+
+
 
 ## R路上的大神
 
@@ -153,7 +167,18 @@ knitr::include_graphics("images/tidyverse.png")
 | 3    	| 探索性分析   	| [3_eda.R](./exercises/3_eda.R)         	          |
 | 4    	| 可重复性报告 	| [4_reproducible.R](./exercises/4_reproducible.R) 	|
 
- 进入 <https://rstudio.cloud/project/1847233>
+- 看演示请进入 <https://rstudio.cloud/project/1847233>
+
+
+## 第一次的小操作
+
+```{r out.width = '65%', echo = FALSE}
+knitr::include_graphics("images/rstudio-cloud-pdf.png")
+```
+
+颜控的小姐姐们，想生成pdf版本，Console中输入`tinytex::install_tinytex()`
+回车后等待2分钟，然后重新点击`Knit`就可以看到pdf了
+
 
 
 ## 难吗？
