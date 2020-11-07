@@ -31,13 +31,21 @@ knitr::opts_chunk$set(
 )
 ```
 
-## R能给我们生活带来什么？
+## 本节课的目的
 
-这个问题，好比人生三大终极问题：
 
-- R是什么?
-- R能干什么?
-- 为什么是R？
+- R能给我们生活带来什么？
+  - R是什么?
+  - R能干什么?
+  - 为什么是R？
+  
+\vskip 0.5cm
+
+- 五分钟上手R语言
+  - 需要一台电脑
+  - 注册一个 https://rstudio.cloud 账号
+  - 登录 https://rstudio.cloud/project/1847233
+
 
 # R是什么
 
@@ -96,12 +104,18 @@ knitr::include_graphics("images/tiobe-index.png")
 knitr::include_graphics("images/Rinstall.png")
 ```
 
-## 安装IDE
+## IDE很舒服
 
 官网地址：<https://rstudio.com/>
 
 ```{r out.width = '85%', echo = FALSE}
 knitr::include_graphics("images/rstudio-editor.png")
+```
+
+## 两者的关系
+
+```{r out.width = '100%', echo = FALSE}
+knitr::include_graphics("images/engine_dashboard.png")
 ```
 
 
@@ -118,7 +132,7 @@ knitr::include_graphics("images/rstudio_cloud.png")
 
 
 
-## 界面很友好
+## 平台很友好
 
 ```{r out.width = '99%', echo = FALSE}
 knitr::include_graphics("images/rstudio-cloud.png")
@@ -142,7 +156,8 @@ knitr::include_graphics("images/hadley-wickham.jpg")
 
 ## 数据科学的流程
 
-Hadley Wickham 定义了数据科学的工作流程
+Hadley Wickham将[数据科学流程](https://r4ds.had.co.nz/)分解成6个环节
+
 
 ```{r echo=FALSE, out.width = '\\textwidth'}
 knitr::include_graphics(path = "images/data-science-explore.png")
@@ -162,22 +177,33 @@ knitr::include_graphics("images/tidyverse.png")
 
 | 序号 	| 内容         	| 代码演示                                        	|
 |------	|--------------	|-------------------------------------------------	|
-| 1    	| 统计         	| [1_stats.R](./exercises/1_stats.R)              	|
-| 2    	| 可视化       	| [2_visual.R](./exercises/2_visual.R)       	      |
-| 3    	| 探索性分析   	| [3_eda.R](./exercises/3_eda.R)         	          |
-| 4    	| 可重复性报告 	| [4_reproducible.R](./exercises/4_reproducible.R) 	|
-
-- 看演示请进入 <https://rstudio.cloud/project/1847233>
+| 1    	| 统计         	| [1_stats.R](./exercises/01_stats.R)              	|
+| 2    	| 可视化       	| [2_visual.R](./exercises/02_visual.R)       	      |
+| 3    	| 探索性分析   	| [3_eda.R](./exercises/03_eda.R)         	          |
+| 4    	| 可重复性报告 	| [4_reproducible.R](./exercises/04_reproducible.R) 	|
 
 
-## 第一次的小操作
+
+## 以最快的速度获得一次成功的经验
+
+- 登录 https://rstudio.cloud
+- 打开链接 https://rstudio.cloud/project/1847233
+- 运行代码（点击右上角的 `Run`）
+
+```{r out.width = '100%', echo = FALSE}
+knitr::include_graphics("images/rstudio-cloud-run.png")
+```
+
+
+
+## 生成pdf
 
 ```{r out.width = '65%', echo = FALSE}
 knitr::include_graphics("images/rstudio-cloud-pdf.png")
 ```
 
-颜控的小姐姐们，想生成pdf版本，Console中输入`tinytex::install_tinytex()`
-回车后等待2分钟，然后重新点击`Knit`就可以看到pdf了
+- Console中输入`tinytex::install_tinytex()`回车
+- 等待2分钟，然后重新点击`Knit`就可以看到pdf了
 
 
 
@@ -229,8 +255,8 @@ knitr::include_graphics("images/BBC-style-Plot.png")
 
 ## 社会科学需要编程
 
-```{r echo=FALSE, out.width = '80%'}
-knitr::include_graphics("images/Coding-Lab.jpg")
+```{r out.width = '100%', fig.align='center', echo = FALSE}
+knitr::include_graphics("images/R_Excel.png", dpi = 150)
 ```
 
 \centering{我们不是学计算机的，但需要编程}
@@ -249,7 +275,7 @@ knitr::include_graphics("images/nature_editorial.png")
 
 
 
-## 挖掘机技术到底哪家强？
+## R语言你值得拥有
 
 \centering
 你有需求，而
@@ -262,7 +288,7 @@ knitr::include_graphics("images/nature_editorial.png")
 |------	|---------------	|----------	|------	|
 | 1    	| 统计分析      	| 看家本领 	| 好用 	|
 | 2    	| ggplot2画图   	| 颜值担当 	| 好看 	| 
-| 3    	| tidyverse语法 	| 简单易懂 	| 好学 	| 
+| 3    	| tidyverse语法 	| 人类语言 	| 好学 	| 
 | 4    	| 可重复性报告  	| 方便快捷 	| 好玩 	| 
 
 
@@ -318,22 +344,6 @@ summary_monthly_temp <- weather %>%
             std_dev = sd(temp))
 ```
 
-## 关于学习
-
-### 课程目标
-
--   训练数据思维，提升编程技能，培养创新能力
-
-### 学习方法
-
--   **问题驱动型学习**
--   多实践（光看李小龙的电影，是学不会功夫的）
--   不是 learning R，而是 learning with R 
--   把 R 看做是知识学习的**脚手架**
-
-```{r echo=FALSE, out.width = '35%'}
-knitr::include_graphics("images/Knowledge-Scaffolding.jpg")
-```
 
 
 
@@ -345,3 +355,20 @@ knitr::include_graphics("images/r4ds-cover.png")
 
 - [R for Data Science](https://r4ds.had.co.nz/)
 - [https://bookdown.org/wangminjie/R4DS/](https://bookdown.org/wangminjie/R4DS/)
+
+
+
+## 欢迎加入我们的小班
+
+### 课程目标
+
+-   训练数据思维，提升编程技能，培养创新能力
+
+### 学习方法
+
+-   **问题驱动型学习**
+-   把 R 看做是知识学习的**脚手架**
+
+```{r echo=FALSE, out.width = '45%'}
+knitr::include_graphics("images/Knowledge-Scaffolding.jpg")
+```
