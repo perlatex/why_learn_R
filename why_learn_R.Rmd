@@ -31,6 +31,23 @@ knitr::opts_chunk$set(
 )
 ```
 
+<!-- 数据科学介于  理论和应用之间，起到一个桥梁作用。 -->
+
+<!-- 掌握这个技能，可以 -->
+
+<!-- - 用在工业生产上：公司企业需要，（学科背景+ 统计编程）= 找工作、提升竞争力  找工作 -->
+<!-- - 用在创新创业上：培养编程思维，参加各种竞赛，数学建模，算法设计、参与工程项目   赚钱不要想着兼职就是发传单和做家教，也可以是做项目、创新创业。这样既有安全、又有收益 -->
+<!-- - 用在科学研究上：读研读博，自然科学、社会科学都需要   发文章 -->
+<!-- - 用在学习方法上：改变传统的统计学习方法,  贝叶斯新统计    -->
+
+
+## 开场白
+
+\LARGE
+- 非常感谢百智享公司唐总的热情邀请，以及林晗川工程师的细致安排
+
+
+
 ## 本节课的目的
 
 
@@ -57,25 +74,9 @@ knitr::opts_chunk$set(
 knitr::include_graphics(path = "images/R_inventor.png")
 ```
 
-- 2000年，R1.0.0 发布
-- 2004年，第一届国际useR!会议（随后每年举办一次）
-- 2005年，ggplot2宏包（2018.8 - 2019.8下载量超过 1.3 亿次）
-- 2012年，R2.15.2 发布
-- 2013年，R3.0.2 发布, CRAN上的宏包数量5026个
-- 2016年，Rstudio公司推出 tidyverse 宏包（数据科学当前最流行的R宏包）
-- 2017年，R3.4.1 发布，CRAN上的宏包数量10875个
-- 2019年，R3.6.1 发布，CRAN上的宏包数量15102个
-- 2020年，R4.0.0 发布，CRAN上的宏包数量16054个
 
-[The History of R](https://blog.revolutionanalytics.com/2020/07/the-history-of-r-updated-for-2020.html)
 
 ## R是什么
-
-
-
-```{r eval=FALSE, include=FALSE}
-knitr::include_graphics("images/what_is_R.png")
-```
 
 R语言是用于统计分析，图形表示和报告的编程语言:
 
@@ -88,6 +89,23 @@ R语言是用于统计分析，图形表示和报告的编程语言:
 
 
 
+
+## R 的前世今生
+
+- 2000年，R1.0.0 发布
+- 2004年，第一届国际useR!会议（随后每年举办一次）
+- 2005年，ggplot2宏包（2018.8 - 2019.8下载量超过 1.3 亿次）
+- 2012年，R2.15.2 发布
+- 2013年，R3.0.2 发布, CRAN上的宏包数量5026个
+- 2016年，Rstudio公司推出 tidyverse 宏包（数据科学当前最流行的R宏包）
+- 2017年，R3.4.1 发布，CRAN上的宏包数量10875个
+- 2019年，R3.6.1 发布，CRAN上的宏包数量15102个
+- 2020年，R4.0.0 发布，CRAN上的宏包数量16054个
+
+[The History of R](https://blog.revolutionanalytics.com/2020/07/the-history-of-r-updated-for-2020.html)
+
+
+
 ## R语言发展趋势
 
 ```{r echo=FALSE, out.width = '100%'}
@@ -95,6 +113,8 @@ knitr::include_graphics("images/tiobe-index.png")
 ```
 
 [TIOBE index](https://www.tiobe.com/tiobe-index/)
+
+
 
 ## 安装很方便
 
@@ -108,7 +128,7 @@ knitr::include_graphics("images/Rinstall.png")
 
 官网地址：<https://rstudio.com/>
 
-```{r out.width = '85%', echo = FALSE}
+```{r out.width = '80%', echo = FALSE}
 knitr::include_graphics("images/rstudio-editor.png")
 ```
 
@@ -173,14 +193,6 @@ knitr::include_graphics("images/tidyverse.png")
 
 
 
-## R能干什么 
-
-| 序号 	| 内容         	| 代码演示                                        	|
-|------	|--------------	|-------------------------------------------------	|
-| 1    	| 统计         	| [1_stats.R](./exercises/01_stats.R)              	|
-| 2    	| 可视化       	| [2_visual.R](./exercises/02_visual.R)       	      |
-| 3    	| 探索性分析   	| [3_eda.R](./exercises/03_eda.R)         	          |
-| 4    	| 可重复性报告 	| [4_reproducible.R](./exercises/04_reproducible.R) 	|
 
 
 
@@ -206,6 +218,15 @@ knitr::include_graphics("images/rstudio-cloud-pdf.png")
 - 等待2分钟，然后重新点击`Knit`就可以看到pdf了
 
 
+## R能干什么 
+
+| 序号 	| 内容         	| 代码演示                                        	|
+|------	|--------------	|-------------------------------------------------	|
+| 1    	| 统计         	| [1_stats.R](./exercises/01_stats.R)              	|
+| 2    	| 可视化       	| [2_visual.R](./exercises/02_visual.R)       	      |
+| 3    	| 探索性分析   	| [3_eda.R](./exercises/03_eda.R)         	          |
+| 4    	| 可重复性报告 	| [4_reproducible.R](./exercises/04_reproducible.R) 	|
+
 
 ## 难吗？
 \Huge
@@ -221,7 +242,7 @@ knitr::include_graphics("images/arrival-movie.png")
 
 
 
-## 但我更希望这门课结束后
+## 但我更希望学完后
 ```{r echo=FALSE, out.width = '100%', fig.cap='图片来自美剧《权利的游戏》'}
 knitr::include_graphics("images/night_king.jpg")
 ```
@@ -246,8 +267,9 @@ knitr::include_graphics("images/social_science.jpg")
 ## 社会科学需要可视化
 
 ```{r echo=FALSE, out.width = '100%'}
-knitr::include_graphics("images/BBC-style-Plot.png")
+knitr::include_graphics("images/HotlineDrake1.jpg")
 ```
+
 
 \centering{我们不是学美术的，但要可视化}
 
@@ -275,12 +297,11 @@ knitr::include_graphics("images/nature_editorial.png")
 
 
 
-## R语言你值得拥有
+## R语言之美，你值得拥有
 
-\centering
-你有需求，而
-\raisebox{-.5\height}{\includegraphics[height=3\baselineskip]{images/R_logo.png}}
-很专业
+<!-- \centering -->
+<!-- \raisebox{-.5\height}{\includegraphics[height=3\baselineskip]{images/R_logo.png}} -->
+<!-- 专业之美 -->
 
 
 
@@ -306,69 +327,105 @@ https://www.r-bloggers.com/2017/01/why-r-is-the-best-data-science-language-to-le
 ## 一见钟情，还是相见恨晚？
 
 ```{r echo=FALSE, out.width = '100%'}
-knitr::include_graphics("images/meme.png")
+knitr::include_graphics("images/memeR1.jpg")
+```
+
+
+## 
+
+```{r echo=FALSE, out.width = '100%'}
+knitr::include_graphics("images/memeR2.png")
+```
+
+## 
+
+```{r echo=FALSE, out.width = '100%'}
+knitr::include_graphics("images/memeR3.png")
+```
+
+## 
+
+```{r echo=FALSE, out.width = '100%'}
+knitr::include_graphics("images/memeR4.png")
+```
+
+
+## 
+
+```{r echo=FALSE, out.width = '100%'}
+knitr::include_graphics("images/memeR5.png")
 ```
 
 
 
 
+<!-- # 关于学习 -->
 
-# 关于学习
+<!-- ## 我们的课程不会枯燥 -->
 
-## 我们的课程不会枯燥
+<!-- ```{r echo=FALSE, out.width = '45%'} -->
+<!-- knitr::include_graphics("images/data_science.png") -->
+<!-- ``` -->
 
-```{r echo=FALSE, out.width = '45%'}
-knitr::include_graphics("images/data_science.png")
-```
-
-- 数据科学是为社会科学服务的，我们会有很多案例
-- 编程是工具，统计是灵魂，专业是核心
-
-
-
-## 关于学习
-
-我很少使用
-
-$$
-f(x)=\frac{1}{\sqrt{2 \pi}} e^{-\frac{1}{2} x^{2}}
-$$
-
-更多的是
-
-```{r, eval = FALSE}
-library(tidyverse)
-summary_monthly_temp <- weather %>% 
-  group_by(month) %>% 
-  summarize(mean = mean(temp), 
-            std_dev = sd(temp))
-```
+<!-- - 数据科学是为社会科学服务的，我们会有很多案例 -->
+<!-- - 编程是工具，统计是灵魂，专业是核心 -->
 
 
 
+<!-- ## 关于学习 -->
 
-## 参考书目
+<!-- 我很少使用 -->
 
-```{r echo=FALSE, out.width = '35%'}
-knitr::include_graphics("images/r4ds-cover.png")
-```
+<!-- $$ -->
+<!-- f(x)=\frac{1}{\sqrt{2 \pi}} e^{-\frac{1}{2} x^{2}} -->
+<!-- $$ -->
 
-- [R for Data Science](https://r4ds.had.co.nz/)
-- [https://bookdown.org/wangminjie/R4DS/](https://bookdown.org/wangminjie/R4DS/)
+<!-- 更多的是 -->
+
+<!-- ```{r, eval = FALSE} -->
+<!-- library(tidyverse) -->
+<!-- summary_monthly_temp <- weather %>%  -->
+<!--   group_by(month) %>%  -->
+<!--   summarize(mean = mean(temp),  -->
+<!--             std_dev = sd(temp)) -->
+<!-- ``` -->
 
 
 
-## 欢迎加入我们的小班
 
-### 课程目标
+<!-- ## 参考书目 -->
 
--   训练数据思维，提升编程技能，培养创新能力
+<!-- ```{r echo=FALSE, out.width = '35%'} -->
+<!-- knitr::include_graphics("images/r4ds-cover.png") -->
+<!-- ``` -->
 
-### 学习方法
+<!-- - [R for Data Science](https://r4ds.had.co.nz/) -->
+<!-- - [https://bookdown.org/wangminjie/R4DS/](https://bookdown.org/wangminjie/R4DS/) -->
 
--   **问题驱动型学习**
--   把 R 看做是知识学习的**脚手架**
 
-```{r echo=FALSE, out.width = '45%'}
-knitr::include_graphics("images/Knowledge-Scaffolding.jpg")
-```
+
+<!-- ## Welcome to R, RStudio, and the tidyverse! -->
+
+<!-- ### 课程目标 -->
+
+<!-- -   训练数据思维，提升编程技能，培养创新能力 -->
+
+<!-- ### 学习方法 -->
+
+<!-- -   **问题驱动型学习** -->
+<!-- -   把 R 看做是知识学习的**脚手架** -->
+
+<!-- ```{r echo=FALSE, out.width = '45%'} -->
+<!-- knitr::include_graphics("images/Knowledge-Scaffolding.jpg") -->
+<!-- ``` -->
+
+
+
+## 
+\Huge
+\centering{ 
+Welcome to R, RStudio, and the tidyverse!
+}
+
+
+
