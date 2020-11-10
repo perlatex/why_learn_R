@@ -94,13 +94,14 @@ R语言是用于统计分析，图形表示和报告的编程语言:
 
 - 2000年，R1.0.0 发布
 - 2004年，第一届国际useR!会议（随后每年举办一次）
-- 2005年，ggplot2宏包（2018.8 - 2019.8下载量超过 1.3 亿次）
+- 2005年，ggplot2宏包\textcolor{red}{（2018.8 - 2019.8下载量超过 1.3 亿次）}
 - 2012年，R2.15.2 发布
 - 2013年，R3.0.2 发布, CRAN上的宏包数量5026个
-- 2016年，Rstudio公司推出 tidyverse 宏包（数据科学当前最流行的R宏包）
+- 2016年，Rstudio公司推出 tidyverse 宏包\textcolor{red}{（数据科学当前最流行的R宏包）}
 - 2017年，R3.4.1 发布，CRAN上的宏包数量10875个
 - 2019年，R3.6.1 发布，CRAN上的宏包数量15102个
 - 2020年，R4.0.0 发布，CRAN上的宏包数量16054个
+
 
 [The History of R](https://blog.revolutionanalytics.com/2020/07/the-history-of-r-updated-for-2020.html)
 
@@ -218,14 +219,20 @@ knitr::include_graphics("images/rstudio-cloud-pdf.png")
 - 等待2分钟，然后重新点击`Knit`就可以看到pdf了
 
 
-## R能干什么 
+<!-- ## R能干什么 -->
+<!-- 通过案例演示，我们可以得出，R可以完成如下一些事情 -->
+<!-- \vfill -->
 
-| 序号 	| 内容         	| 代码演示                                        	|
-|------	|--------------	|-------------------------------------------------	|
-| 1    	| 统计         	| [1_stats.R](./exercises/01_stats.R)              	|
-| 2    	| 可视化       	| [2_visual.R](./exercises/02_visual.R)       	      |
-| 3    	| 探索性分析   	| [3_eda.R](./exercises/03_eda.R)         	          |
-| 4    	| 可重复性报告 	| [4_reproducible.R](./exercises/04_reproducible.R) 	|
+
+
+<!-- ## R能干什么  -->
+
+<!-- | 序号 	| 内容         	| 代码演示                                        	| -->
+<!-- |------	|--------------	|-------------------------------------------------	| -->
+<!-- | 1    	| 统计         	| [1_stats.R](./exercises/01_stats.R)              	| -->
+<!-- | 2    	| 可视化       	| [2_visual.R](./exercises/02_visual.R)       	      | -->
+<!-- | 3    	| 探索性分析   	| [3_eda.R](./exercises/03_eda.R)         	          | -->
+<!-- | 4    	| 可重复性报告 	| [4_reproducible.R](./exercises/04_reproducible.R) 	| -->
 
 
 ## 难吗？
@@ -258,8 +265,7 @@ knitr::include_graphics("images/night_king.jpg")
 knitr::include_graphics("images/social_science.jpg")
 ```
 
-\centering{我们不是学统计的，但需要统计}
-
+\centering{往往用的统计的，都不是学统计的}
 
 
 
@@ -271,8 +277,7 @@ knitr::include_graphics("images/HotlineDrake1.jpg")
 ```
 
 
-\centering{我们不是学美术的，但要可视化}
-
+\centering{没有好看的皮囊，没人愿意了解你的灵魂}
 
 
 ## 社会科学需要编程
@@ -281,8 +286,7 @@ knitr::include_graphics("images/HotlineDrake1.jpg")
 knitr::include_graphics("images/R_Excel.png", dpi = 150)
 ```
 
-\centering{我们不是学计算机的，但需要编程}
-
+\centering{现在小学生都开始学编程了}
 
 
 
@@ -293,7 +297,28 @@ knitr::include_graphics("images/nature_editorial.png")
 ```
 
 \centering{
-社会科学研究，是需要\textcolor{red}{可重复性的}}
+论文，要公布原始数据和如何分析的代码}
+
+
+##
+
+```{r echo=FALSE, out.width = '100%'}
+knitr::include_graphics("images/picardfacepalm1.png")
+```
+
+##
+```{r echo=FALSE, out.width = '100%'}
+knitr::include_graphics("images/picardfacepalm2.png")
+```
+
+\centering{何以解忧，唯有撸R}
+
+##
+```{r echo=FALSE, out.width = '100%'}
+knitr::include_graphics("images/picardfacepalm2.png")
+```
+
+\centering{ 何以解忧，\xout{唯有} 可以撸R }
 
 
 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.9)  9 NOV 2020 14:43
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.9)  10 NOV 2020 15:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1116,6 +1116,17 @@ Package: xtab 2011/07/31 v2.3f Extended supertabular package
 \ST@toadd=\dimen384
 \ST@dimen=\dimen385
 \ST@pbox=\box100
+) (g:/Tinytex/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box101
+\UL@hyphenbox=\box102
+\UL@skip=\skip97
+\UL@hook=\toks59
+\UL@height=\dimen386
+\UL@pe=\count399
+\UL@pixel=\dimen387
+\ULC@box=\box103
+Package: ulem 2019/11/18
+\ULdepth=\dimen388
 ))
 
 Package fontspec Warning: Font "FandolHei-Regular" does not contain requested
@@ -1213,7 +1224,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (g:/Tinytex/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count399
+\c@section@level=\count400
 )
 LaTeX Info: Redefining \ref on input line 129.
 LaTeX Info: Redefining \pageref on input line 129.
@@ -1423,7 +1434,7 @@ Overfull \vbox (20.53632pt too high) detected at line 202
 File: images/tiobe-index.png Graphic file (type bmp)
 <images/tiobe-index.png>
 
-Overfull \vbox (4.5171pt too high) detected at line 258
+Overfull \vbox (4.5171pt too high) detected at line 259
  []
 
 [9
@@ -1437,7 +1448,7 @@ File: images/Rinstall.png Graphic file (type bmp)
 File: images/rstudio-editor.png Graphic file (type bmp)
 <images/rstudio-editor.png>
 
-Overfull \vbox (25.15607pt too high) detected at line 272
+Overfull \vbox (25.15607pt too high) detected at line 273
  []
 
 [11
@@ -1490,112 +1501,125 @@ File: images/rstudio-cloud-pdf.png Graphic file (type bmp)
 <images/rstudio-cloud-pdf.png>
 ) [20
 
-] [21
-
 ]
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/m/n' will be
-(Font)              scaled to size 24.82419pt on input line 375.
-[22
+(Font)              scaled to size 24.82419pt on input line 360.
+[21
 
 ]
 File: images/arrival-movie.png Graphic file (type bmp)
 <images/arrival-movie.png>
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/b/n' will be
-(Font)              scaled to size 10.30037pt on input line 387.
-[23
+(Font)              scaled to size 10.30037pt on input line 372.
+[22
 
 ]
 File: images/night_king.jpg Graphic file (type bmp)
 <images/night_king.jpg>
 
-Overfull \vbox (3.00157pt too high) detected at line 399
+Overfull \vbox (3.00157pt too high) detected at line 384
  []
 
-[24
+[23
 
-] [25
+] [24
 
 ]
 File: images/social_science.jpg Graphic file (type bmp)
 <images/social_science.jpg>
 
-Overfull \vbox (5.51003pt too high) detected at line 409
+Overfull \vbox (5.51003pt too high) detected at line 394
  []
 
-[26
+[25
 
 ]
 File: images/HotlineDrake1.jpg Graphic file (type bmp)
 <images/HotlineDrake1.jpg>
 
-Overfull \vbox (21.54768pt too high) detected at line 416
+Overfull \vbox (21.5836pt too high) detected at line 401
  []
 
-[27
+[26
 
 ]
 File: images/R_Excel.png Graphic file (type bmp)
 <images/R_Excel.png>
 
-Overfull \vbox (43.80762pt too high) detected at line 423
+Overfull \vbox (43.80762pt too high) detected at line 408
  []
 
-[28
+[27
 
 ]
 File: images/nature_editorial.png Graphic file (type bmp)
 <images/nature_editorial.png>
 
-Overfull \vbox (8.28484pt too high) detected at line 431
+Overfull \vbox (8.10524pt too high) detected at line 416
  []
 
+[28
+
+]
+File: images/picardfacepalm1.png Graphic file (type bmp)
+<images/picardfacepalm1.png>
 [29
 
-] [30
+]
+File: images/picardfacepalm2.png Graphic file (type bmp)
+<images/picardfacepalm2.png>
+[30
+
+]
+File: images/picardfacepalm2.png Graphic file (type bmp)
+<images/picardfacepalm2.png>
+[31
+
+] [32
 
 ]
 File: images/why_R_is_best_language.png Graphic file (type bmp)
 <images/why_R_is_best_language.png>
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 455.
+(Font)              <5> on input line 459.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <5> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 455.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 459.
 
-Overfull \vbox (32.48093pt too high) detected at line 455
+Overfull \vbox (32.48093pt too high) detected at line 459
  []
 
-[31
+[33
 
 ]
 File: images/memeR1.jpg Graphic file (type bmp)
 <images/memeR1.jpg>
 
-Overfull \vbox (5.38857pt too high) detected at line 460
+Overfull \vbox (5.38857pt too high) detected at line 464
  []
 
-[32
+[34
 
 ]
 File: images/memeR2.png Graphic file (type bmp)
 <images/memeR2.png>
-[33
+[35
 
 ]
 File: images/memeR3.png Graphic file (type bmp)
 <images/memeR3.png>
-[34
+[36
 
 ]
 File: images/memeR4.png Graphic file (type bmp)
 <images/memeR4.png>
-[35
+[37
 
 ]
 File: images/memeR5.png Graphic file (type bmp)
 <images/memeR5.png>
-[36
+[38
 
-] [37
+] [39
 
 ]
 \tf@nav=\write6
@@ -1612,15 +1636,15 @@ Package rerunfilecheck Info: File `why_learn_R.out' has not changed.
 (rerunfilecheck)             Checksum: 5A394461934FCCA2A6E961B8BAFF1F87;232.
  ) 
 Here is how much of TeX's memory you used:
- 33526 strings out of 479401
- 706695 string characters out of 5880784
- 1028677 words of memory out of 5000000
- 52089 multiletter control sequences out of 15000+600000
- 554981 words of font info for 99 fonts, out of 8000000 for 9000
+ 33632 strings out of 479401
+ 708133 string characters out of 5880784
+ 1029945 words of memory out of 5000000
+ 52188 multiletter control sequences out of 15000+600000
+ 555087 words of font info for 100 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  107i,13n,137p,1814b,745s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on why_learn_R.pdf (37 pages).
+Output written on why_learn_R.pdf (39 pages).
 
 ! kpathsea:make_tex: Invalid filename `Fira Sans Light', contains ' '
 ! kpathsea:make_tex: Invalid filename `Fira Sans Light Italic', contains ' '
