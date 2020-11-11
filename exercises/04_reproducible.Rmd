@@ -1,5 +1,5 @@
 ---
-title: "这是一份关于新冠肺炎的探索性分析报告"
+title: "这是一份关于新冠疫情的探索性分析报告"
 author: "王小二"
 date: "`r Sys.Date()`"
 output:
@@ -13,7 +13,6 @@ output:
 classoptions: "hyperref, 12pt, a4paper"
 ---
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, 
                       message = FALSE, 
@@ -22,11 +21,9 @@ knitr::opts_chunk$set(echo = TRUE,
                       )
 ```
 
-
 # 引言
 
-新型冠状病毒疫情在多国蔓延，一些国家的病例确诊数量明显增多，各国防疫力度继续加强。本章通过分析疫情数据，了解疫情发展，祝愿人类早日会战胜病毒！
-
+新型冠状病毒疫情在多国持续蔓延，一些国家的病例确诊数量明显增多，各国防疫力度继续加强。本章通过分析疫情数据，了解疫情发展，祝愿人类早日会战胜病毒！
 
 # 导入数据
 
@@ -37,34 +34,27 @@ library(tidyverse)
 library(covdata)
 ```
 
-
-论文的数据来源
-[https://kjhealy.github.io/covdata/](https://kjhealy.github.io/covdata/)，我们选取最近数据看看
-
+论文的数据来源 <https://kjhealy.github.io/covdata/>，我们选取最近数据看看
 
 ```{r, echo = FALSE}
 covnat %>% 
   tail(8) 
 ```
 
-
-
 # 数据变量
 
 这个数据集包含8个变量，具体含义如下：
 
-| 变量      	| 含义               	|
-|-----------	|--------------------	|
-| date      	| 日期               	|
-| cname     	| 国家名             	|
-| iso3      	| 国家编码           	|
-| cases     	| 确诊病例           	|
-| deaths    	| 死亡病例           	|
-| pop       	| 2019年国家人口数量 	|
-| cu_cases  	| 累积确诊病例       	|
-| cu_deaths 	| 累积死亡病例       	|
-
-
+| 变量      | 含义               |
+|-----------|--------------------|
+| date      | 日期               |
+| cname     | 国家名             |
+| iso3      | 国家编码           |
+| cases     | 确诊病例           |
+| deaths    | 死亡病例           |
+| pop       | 2019年国家人口数量 |
+| cu_cases  | 累积确诊病例       |
+| cu_deaths | 累积死亡病例       |
 
 # 数据探索
 
@@ -77,7 +67,6 @@ covnat %>%
   slice_max(cu_cases, n = 8)
 ```
 
-
 全球**确诊病例**和**死亡病例**
 
 ```{r}
@@ -85,24 +74,62 @@ covnat %>%
   ungroup() %>% 
   summarise(
     total_cases = sum(cases),
-    total_death = sum(deaths),
+    total_death = sum(deaths)
   )
 ```
 
-
-
-美国疫情变化情况
+美国疫情每日变化情况
 
 ```{r, fig.showtext = TRUE}
+library(showtext)
+showtext_auto()
 covnat %>% 
   filter(iso3 == "USA") %>% 
-  filter(cu_cases > 0) %>% 
   ungroup() %>% 
-  ggplot(aes(x = date, y = cases)) +
+  filter(date >= as.Date("2020-03-01")) %>% 
+  filter(cu_cases > 0) %>% 
+  ggplot(aes(x = date, y = cases, color = date >= as.Date("2020-10-01") )) +
   geom_line() +
   scale_x_date(name = NULL, breaks = "month") +
-  labs(title = "美国新冠肺炎累积确诊病例",
-       subtitle = "数据来源https://kjhealy.github.io/covdata/") 
+  scale_color_manual(values = c("TRUE" = "red", "FALSE" = "gray")) + 
+  labs(title = "美国新冠肺炎每日确诊病例",
+       subtitle = "数据来源https://kjhealy.github.io/covdata/") +
+  theme(legend.position = "none")
+```
+
+美国大选疫情加速蔓延，单日新增确诊病例超过10万例
+
+```{r}
+november_only <- covnat %>% 
+  filter(iso3 == "USA") %>% 
+  ungroup() %>% 
+  mutate(month = lubridate::month(date)) %>% 
+  filter(month == 11) %>% 
+  mutate(date_factor = fct_rev(fct_inorder(as.factor(date))))
 ```
 
 
+
+```{r, fig.showtext = TRUE}
+november_only %>% 
+  ggplot(aes(x = cases, y = date_factor)) +
+  geom_col(aes(fill = cases == max(cases) ), show.legend = FALSE) +
+  geom_text(aes(label = scales::comma(cases)),  hjust = 1.1, color = "white") +
+  scale_x_continuous(labels = scales::comma, expand = expansion(0,0)) +
+  scale_fill_manual(values = c("TRUE" = "red", "FALSE" = "gray50")) + 
+  labs(x = NULL, y = NULL,
+       title = "美国大选疫情加速蔓延",
+       caption = "Source: Kieran Healy's covdata packages"
+       ) +
+  theme_minimal() +
+  theme(panel.grid = element_blank())
+```
+
+
+11月以来，确诊病例已经超过100万例。
+```{r}
+november_only %>% 
+  summarise(
+   total_in_november = sum(cases)
+)
+```

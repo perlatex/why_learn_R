@@ -446,11 +446,13 @@ knitr::include_graphics("images/memeR5.png")
 
 
 
+<!-- ##  -->
+<!-- \Huge -->
+<!-- \centering{  -->
+<!-- Welcome to R, RStudio, and the tidyverse! -->
+<!-- } -->
+
 ## 
-\Huge
-\centering{ 
-Welcome to R, RStudio, and the tidyverse!
-}
-
-
-
+```{r echo=FALSE, out.width = '100%'}
+knitr::include_graphics("images/welcome.png")
+```
