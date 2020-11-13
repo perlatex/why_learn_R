@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.9)  13 NOV 2020 12:15
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.9)  13 NOV 2020 15:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1580,7 +1580,7 @@ Overfull \vbox (3.00157pt too high) detected at line 693
 Missing character: There is no 啰 in font [FandolHei-Regular.otf]/OT:language=df
 lt;mapping=tex-text;!
 
-Overfull \vbox (19.81213pt too high) detected at line 720
+Overfull \vbox (10.68721pt too high) detected at line 724
  []
 
 [49
@@ -1593,7 +1593,7 @@ Overfull \vbox (19.81213pt too high) detected at line 720
 File: images/social_science.jpg Graphic file (type bmp)
 <images/social_science.jpg>
 
-Overfull \vbox (5.51003pt too high) detected at line 742
+Overfull \vbox (5.51003pt too high) detected at line 746
  []
 
 [52
@@ -1604,13 +1604,13 @@ Overfull \vbox (5.51003pt too high) detected at line 742
 File: images/HotlineDrake1.jpg Graphic file (type bmp)
 <images/HotlineDrake1.jpg>
 
-Overfull \vbox (21.5836pt too high) detected at line 770
+Overfull \vbox (21.5836pt too high) detected at line 774
  []
 
 [54
 
 ]
-Overfull \vbox (18.68721pt too high) detected at line 801
+Overfull \vbox (18.68721pt too high) detected at line 805
  []
 
 [55
@@ -1619,7 +1619,7 @@ Overfull \vbox (18.68721pt too high) detected at line 801
 File: images/R_Excel.png Graphic file (type bmp)
 <images/R_Excel.png>
 
-Overfull \vbox (43.80762pt too high) detected at line 808
+Overfull \vbox (43.80762pt too high) detected at line 812
  []
 
 [56
@@ -1630,7 +1630,7 @@ Overfull \vbox (43.80762pt too high) detected at line 808
 File: images/nature_editorial.png Graphic file (type bmp)
 <images/nature_editorial.png>
 
-Overfull \vbox (8.10524pt too high) detected at line 837
+Overfull \vbox (8.10524pt too high) detected at line 841
  []
 
 [58
@@ -1658,9 +1658,9 @@ File: images/picardfacepalm2.png Graphic file (type bmp)
 
 ]
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/b/n' will be
-(Font)              scaled to size 9.40674pt on input line 897.
+(Font)              scaled to size 9.40674pt on input line 901.
 
-Overfull \vbox (4.48714pt too high) detected at line 897
+Overfull \vbox (4.48714pt too high) detected at line 901
  []
 
 [65
@@ -1668,7 +1668,7 @@ Overfull \vbox (4.48714pt too high) detected at line 897
 ] [66
 
 ]
-Overfull \vbox (19.7711pt too high) detected at line 940
+Overfull \vbox (19.7711pt too high) detected at line 944
  []
 
 [67
@@ -1677,11 +1677,11 @@ Overfull \vbox (19.7711pt too high) detected at line 940
 File: images/why_R_is_best_language.png Graphic file (type bmp)
 <images/why_R_is_best_language.png>
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 949.
+(Font)              <5> on input line 953.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <5> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 949.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 953.
 
-Overfull \vbox (32.48093pt too high) detected at line 949
+Overfull \vbox (32.48093pt too high) detected at line 953
  []
 
 [68
@@ -1692,7 +1692,7 @@ Overfull \vbox (32.48093pt too high) detected at line 949
 File: images/memeR1.jpg Graphic file (type bmp)
 <images/memeR1.jpg>
 
-Overfull \vbox (5.38857pt too high) detected at line 959
+Overfull \vbox (5.38857pt too high) detected at line 963
  []
 
 [70
@@ -1727,7 +1727,7 @@ File: images/memeR5.png Graphic file (type bmp)
 
 ]
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/b/n' will be
-(Font)              scaled to size 11.28809pt on input line 1026.
+(Font)              scaled to size 11.28809pt on input line 1030.
 [79
 
 ]
