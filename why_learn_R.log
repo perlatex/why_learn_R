@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.9)  10 NOV 2020 15:08
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.9)  13 NOV 2020 12:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1334,14 +1334,14 @@ Overfull \vbox (16.67491pt too high) detected at line 134
 
 ]
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/m/n' will be
-(Font)              scaled to size 20.69348pt on input line 150.
+(Font)              scaled to size 20.69348pt on input line 151.
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/b/n' will be
-(Font)              scaled to size 13.54568pt on input line 150.
+(Font)              scaled to size 13.54568pt on input line 151.
 [3
 
 ]
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/m/n' will be
-(Font)              scaled to size 11.97308pt on input line 187.
+(Font)              scaled to size 11.97308pt on input line 188.
 
 Package fontspec Warning: Font "FandolFang-Regular" does not contain requested
 (fontspec)                Script "CJK".
@@ -1367,61 +1367,61 @@ nguage=dflt;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
-187.
+188.
 (g:/Tinytex/texmf-dist/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-87.
+88.
 (g:/Tinytex/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-187.
+188.
 (g:/Tinytex/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-187.
+188.
 (g:/Tinytex/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 187.
+(Font)              <10.95> on input line 188.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 187.
+(Font)              <8> on input line 188.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 187.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 187
+(Font)              <6> on input line 188.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 188
 .
 (g:/Tinytex/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 187
+LaTeX Font Info:    Trying to load font information for U+msb on input line 188
 .
 (g:/Tinytex/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 187.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 188.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <8> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 187.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 188.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 187.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 188.
 [4
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 190.
+(Font)              <12> on input line 191.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <12> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 190.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 191.
 [5
 
 ]
 File: images/R_inventor.png Graphic file (type bmp)
 <images/R_inventor.png>
 
-Overfull \vbox (20.53632pt too high) detected at line 202
+Overfull \vbox (20.53632pt too high) detected at line 203
  []
 
 [6
@@ -1434,7 +1434,7 @@ Overfull \vbox (20.53632pt too high) detected at line 202
 File: images/tiobe-index.png Graphic file (type bmp)
 <images/tiobe-index.png>
 
-Overfull \vbox (4.5171pt too high) detected at line 259
+Overfull \vbox (4.5171pt too high) detected at line 260
  []
 
 [9
@@ -1448,7 +1448,7 @@ File: images/Rinstall.png Graphic file (type bmp)
 File: images/rstudio-editor.png Graphic file (type bmp)
 <images/rstudio-editor.png>
 
-Overfull \vbox (25.15607pt too high) detected at line 273
+Overfull \vbox (25.15607pt too high) detected at line 274
  []
 
 [11
@@ -1503,21 +1503,21 @@ File: images/rstudio-cloud-pdf.png Graphic file (type bmp)
 
 ]
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/m/n' will be
-(Font)              scaled to size 24.82419pt on input line 360.
+(Font)              scaled to size 24.82419pt on input line 361.
 [21
 
 ]
 File: images/arrival-movie.png Graphic file (type bmp)
 <images/arrival-movie.png>
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/b/n' will be
-(Font)              scaled to size 10.30037pt on input line 372.
+(Font)              scaled to size 10.30037pt on input line 373.
 [22
 
 ]
 File: images/night_king.jpg Graphic file (type bmp)
 <images/night_king.jpg>
 
-Overfull \vbox (3.00157pt too high) detected at line 384
+Overfull \vbox (3.00157pt too high) detected at line 385
  []
 
 [23
@@ -1528,7 +1528,7 @@ Overfull \vbox (3.00157pt too high) detected at line 384
 File: images/social_science.jpg Graphic file (type bmp)
 <images/social_science.jpg>
 
-Overfull \vbox (5.51003pt too high) detected at line 394
+Overfull \vbox (5.51003pt too high) detected at line 395
  []
 
 [25
@@ -1537,7 +1537,7 @@ Overfull \vbox (5.51003pt too high) detected at line 394
 File: images/HotlineDrake1.jpg Graphic file (type bmp)
 <images/HotlineDrake1.jpg>
 
-Overfull \vbox (21.5836pt too high) detected at line 401
+Overfull \vbox (21.5836pt too high) detected at line 402
  []
 
 [26
@@ -1546,7 +1546,7 @@ Overfull \vbox (21.5836pt too high) detected at line 401
 File: images/R_Excel.png Graphic file (type bmp)
 <images/R_Excel.png>
 
-Overfull \vbox (43.80762pt too high) detected at line 408
+Overfull \vbox (43.80762pt too high) detected at line 409
  []
 
 [27
@@ -1555,7 +1555,7 @@ Overfull \vbox (43.80762pt too high) detected at line 408
 File: images/nature_editorial.png Graphic file (type bmp)
 <images/nature_editorial.png>
 
-Overfull \vbox (8.10524pt too high) detected at line 416
+Overfull \vbox (8.10524pt too high) detected at line 417
  []
 
 [28
@@ -1581,11 +1581,11 @@ File: images/picardfacepalm2.png Graphic file (type bmp)
 File: images/why_R_is_best_language.png Graphic file (type bmp)
 <images/why_R_is_best_language.png>
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 459.
+(Font)              <5> on input line 460.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <5> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 459.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 460.
 
-Overfull \vbox (32.48093pt too high) detected at line 459
+Overfull \vbox (32.48093pt too high) detected at line 460
  []
 
 [33
@@ -1594,7 +1594,7 @@ Overfull \vbox (32.48093pt too high) detected at line 459
 File: images/memeR1.jpg Graphic file (type bmp)
 <images/memeR1.jpg>
 
-Overfull \vbox (5.38857pt too high) detected at line 464
+Overfull \vbox (5.38857pt too high) detected at line 465
  []
 
 [34
@@ -1619,7 +1619,10 @@ File: images/memeR5.png Graphic file (type bmp)
 <images/memeR5.png>
 [38
 
-] [39
+]
+File: images/welcome.png Graphic file (type bmp)
+<images/welcome.png>
+[39
 
 ]
 \tf@nav=\write6
@@ -1636,10 +1639,10 @@ Package rerunfilecheck Info: File `why_learn_R.out' has not changed.
 (rerunfilecheck)             Checksum: 5A394461934FCCA2A6E961B8BAFF1F87;232.
  ) 
 Here is how much of TeX's memory you used:
- 33632 strings out of 479401
- 708133 string characters out of 5880784
+ 33643 strings out of 479401
+ 708330 string characters out of 5880784
  1029945 words of memory out of 5000000
- 52188 multiletter control sequences out of 15000+600000
+ 52198 multiletter control sequences out of 15000+600000
  555087 words of font info for 100 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  107i,13n,137p,1814b,745s stack positions out of 5000i,500n,10000p,200000b,80000s

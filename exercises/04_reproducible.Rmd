@@ -31,7 +31,8 @@ knitr::opts_chunk$set(echo = TRUE,
 
 ```{r, warning=FALSE, message=FALSE}
 library(tidyverse) 
-library(covdata)
+
+covnat <- read_csv("data/covnat.csv")
 ```
 
 论文的数据来源 <https://kjhealy.github.io/covdata/>，我们选取最近数据看看
@@ -126,7 +127,7 @@ november_only %>%
 ```
 
 
-11月以来，确诊病例已经超过100万例。
+11月以来，确诊病例已经超过130万例。
 ```{r}
 november_only %>% 
   summarise(

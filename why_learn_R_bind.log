@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.9)  10 NOV 2020 15:05
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.9)  13 NOV 2020 12:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1334,9 +1334,9 @@ Overfull \vbox (16.67491pt too high) detected at line 134
 
 ]
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/m/n' will be
-(Font)              scaled to size 11.97308pt on input line 156.
+(Font)              scaled to size 11.97308pt on input line 158.
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/b/n' will be
-(Font)              scaled to size 13.54568pt on input line 156.
+(Font)              scaled to size 13.54568pt on input line 158.
 [3
 
 ] [4
@@ -1345,12 +1345,12 @@ LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/b/n' will be
 
 ]
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/m/n' will be
-(Font)              scaled to size 20.69348pt on input line 180.
+(Font)              scaled to size 20.69348pt on input line 184.
 [6
 
 ]
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/m/n' will be
-(Font)              scaled to size 9.97757pt on input line 195.
+(Font)              scaled to size 9.97757pt on input line 200.
 [7
 
 ] [8
@@ -1381,54 +1381,54 @@ nguage=dflt;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
-218.
+223.
 (g:/Tinytex/texmf-dist/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
-18.
+23.
 (g:/Tinytex/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-218.
+223.
 (g:/Tinytex/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-218.
+223.
 (g:/Tinytex/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 218.
+(Font)              <12> on input line 223.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 218.
+(Font)              <8> on input line 223.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 218.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 218
+(Font)              <6> on input line 223.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 223
 .
 (g:/Tinytex/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 218
+LaTeX Font Info:    Trying to load font information for U+msb on input line 223
 .
 (g:/Tinytex/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <12> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 218.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 223.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <8> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 218.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 223.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 218.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 223.
 [9
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 255.
+(Font)              <10.95> on input line 260.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 255.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 260.
 [10
 
 ] [11
@@ -1441,7 +1441,7 @@ LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
 File: images/R_inventor.png Graphic file (type bmp)
 <images/R_inventor.png>
 
-Overfull \vbox (20.53632pt too high) detected at line 294
+Overfull \vbox (20.53632pt too high) detected at line 299
  []
 
 [14
@@ -1460,7 +1460,7 @@ Overfull \vbox (20.53632pt too high) detected at line 294
 File: images/tiobe-index.png Graphic file (type bmp)
 <images/tiobe-index.png>
 
-Overfull \vbox (4.5171pt too high) detected at line 394
+Overfull \vbox (4.5171pt too high) detected at line 377
  []
 
 [20
@@ -1478,7 +1478,7 @@ File: images/Rinstall.png Graphic file (type bmp)
 File: images/rstudio-editor.png Graphic file (type bmp)
 <images/rstudio-editor.png>
 
-Overfull \vbox (25.15607pt too high) detected at line 447
+Overfull \vbox (25.15607pt too high) detected at line 430
  []
 
 [24
@@ -1553,7 +1553,7 @@ File: images/rstudio-cloud-pdf.png Graphic file (type bmp)
 
 ]
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/m/n' will be
-(Font)              scaled to size 24.82419pt on input line 665.
+(Font)              scaled to size 24.82419pt on input line 654.
 [44
 
 ] [45
@@ -1562,7 +1562,7 @@ LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/m/n' will be
 File: images/arrival-movie.png Graphic file (type bmp)
 <images/arrival-movie.png>
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/b/n' will be
-(Font)              scaled to size 10.30037pt on input line 688.
+(Font)              scaled to size 10.30037pt on input line 677.
 [46
 
 ] [47
@@ -1571,12 +1571,19 @@ LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/b/n' will be
 File: images/night_king.jpg Graphic file (type bmp)
 <images/night_king.jpg>
 
-Overfull \vbox (3.00157pt too high) detected at line 704
+Overfull \vbox (3.00157pt too high) detected at line 693
  []
 
 [48
 
-] [49
+]
+Missing character: There is no 啰 in font [FandolHei-Regular.otf]/OT:language=df
+lt;mapping=tex-text;!
+
+Overfull \vbox (19.81213pt too high) detected at line 720
+ []
+
+[49
 
 ] [50
 
@@ -1586,7 +1593,7 @@ Overfull \vbox (3.00157pt too high) detected at line 704
 File: images/social_science.jpg Graphic file (type bmp)
 <images/social_science.jpg>
 
-Overfull \vbox (5.51003pt too high) detected at line 739
+Overfull \vbox (5.51003pt too high) detected at line 742
  []
 
 [52
@@ -1597,13 +1604,13 @@ Overfull \vbox (5.51003pt too high) detected at line 739
 File: images/HotlineDrake1.jpg Graphic file (type bmp)
 <images/HotlineDrake1.jpg>
 
-Overfull \vbox (21.5836pt too high) detected at line 759
+Overfull \vbox (21.5836pt too high) detected at line 770
  []
 
 [54
 
 ]
-Overfull \vbox (18.68721pt too high) detected at line 790
+Overfull \vbox (18.68721pt too high) detected at line 801
  []
 
 [55
@@ -1612,7 +1619,7 @@ Overfull \vbox (18.68721pt too high) detected at line 790
 File: images/R_Excel.png Graphic file (type bmp)
 <images/R_Excel.png>
 
-Overfull \vbox (43.80762pt too high) detected at line 797
+Overfull \vbox (43.80762pt too high) detected at line 808
  []
 
 [56
@@ -1623,7 +1630,7 @@ Overfull \vbox (43.80762pt too high) detected at line 797
 File: images/nature_editorial.png Graphic file (type bmp)
 <images/nature_editorial.png>
 
-Overfull \vbox (8.10524pt too high) detected at line 824
+Overfull \vbox (8.10524pt too high) detected at line 837
  []
 
 [58
@@ -1651,26 +1658,30 @@ File: images/picardfacepalm2.png Graphic file (type bmp)
 
 ]
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/b/n' will be
-(Font)              scaled to size 9.40674pt on input line 884.
+(Font)              scaled to size 9.40674pt on input line 897.
 
-Overfull \vbox (4.44722pt too high) detected at line 884
+Overfull \vbox (4.48714pt too high) detected at line 897
  []
 
 [65
 
 ] [66
 
-] [67
+]
+Overfull \vbox (19.7711pt too high) detected at line 940
+ []
+
+[67
 
 ]
 File: images/why_R_is_best_language.png Graphic file (type bmp)
 <images/why_R_is_best_language.png>
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 930.
+(Font)              <5> on input line 949.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <5> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 930.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 949.
 
-Overfull \vbox (32.48093pt too high) detected at line 930
+Overfull \vbox (32.48093pt too high) detected at line 949
  []
 
 [68
@@ -1681,7 +1692,7 @@ Overfull \vbox (32.48093pt too high) detected at line 930
 File: images/memeR1.jpg Graphic file (type bmp)
 <images/memeR1.jpg>
 
-Overfull \vbox (5.38857pt too high) detected at line 940
+Overfull \vbox (5.38857pt too high) detected at line 959
  []
 
 [70
@@ -1716,10 +1727,13 @@ File: images/memeR5.png Graphic file (type bmp)
 
 ]
 LaTeX Font Info:    Font shape `TU/FandolHei-Regular(0)/b/n' will be
-(Font)              scaled to size 11.28809pt on input line 995.
+(Font)              scaled to size 11.28809pt on input line 1026.
 [79
 
-] [80
+]
+File: images/welcome.png Graphic file (type bmp)
+<images/welcome.png>
+[80
 
 ]
 \tf@nav=\write6
@@ -1736,10 +1750,10 @@ Package rerunfilecheck Info: File `why_learn_R_bind.out' has not changed.
 (rerunfilecheck)             Checksum: 5A394461934FCCA2A6E961B8BAFF1F87;232.
  ) 
 Here is how much of TeX's memory you used:
- 33880 strings out of 479401
- 720511 string characters out of 5880784
+ 33911 strings out of 479401
+ 722193 string characters out of 5880784
  1036271 words of memory out of 5000000
- 52431 multiletter control sequences out of 15000+600000
+ 52461 multiletter control sequences out of 15000+600000
  555127 words of font info for 105 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  107i,13n,137p,1819b,745s stack positions out of 5000i,500n,10000p,200000b,80000s
