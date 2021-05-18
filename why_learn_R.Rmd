@@ -350,6 +350,12 @@ knitr::include_graphics("images/why_R_is_best_language.png")
 https://www.r-bloggers.com/2017/01/why-r-is-the-best-data-science-language-to-learn-today/
 
 
+## 当今最值得学习的数据科学语言
+
+```{r echo=FALSE, out.width = '100%'}
+knitr::include_graphics("images/statistics_car.jpg")
+```
+
 ## 一见钟情，还是相见恨晚？
 
 ```{r echo=FALSE, out.width = '100%'}
